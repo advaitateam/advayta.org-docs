@@ -38,9 +38,9 @@ import { SwiperSlide } from 'swiper/vue';
 
 ```
 ::::: slider
-::: slider-item {src="/binaries/am/11326.jpg"}
+::: slider-item {src="https://filer-api.advayta.org/v1.0/public/files/72423?type=medium"}
 :::
-::: slider-item {src="/binaries/am/9604.jpg"}
+::: slider-item {src="https://filer-api.advayta.org/v1.0/public/files/72424?type=medium"}
 :::
 :::::
 ```
