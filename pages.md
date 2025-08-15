@@ -1,5 +1,0 @@
----
-title: "Статьи"
-layout: "archives"
----
-
