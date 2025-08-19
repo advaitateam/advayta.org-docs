@@ -25,7 +25,7 @@ draft: false
 
 **8\. [Казахстанський ашрам](/nashi-ashramy-yogi/kazakhstanskii-ashram)** 
 
-**9\. [Ашрам-музей](/nashi-ashramy-yogi/samadkhi-svami-brakhmanandy/)** **у місці самадхі Свамі Брахмананди. Пагорб Тигра, Омаллур, штат Керала, Індія. Тут також будується Авадхута сіддха ашрам.** 
+**9\. [Ашрам-музей](/nashi-ashramy-yogi/samadkhi-svami-brakhmanandi)** **у місці самадхі Свамі Брахмананди. Пагорб Тигра, Омаллур, штат Керала, Індія. Тут також будується Авадхута сіддха ашрам.** 
 
 **10\. [Авадхута Сіддха Ашрам](/nashi-ashramy-yogi/avadkhuta-siddkha-ashram/)** 
 

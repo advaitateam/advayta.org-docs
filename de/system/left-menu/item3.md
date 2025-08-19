@@ -12,7 +12,7 @@ render: true
 ::: sumbenu-item {href="/nashi-ashramy-yogi/avadkhuta-siddkha-ashram/"}
 Авадхута Сиддха Ашрам
 :::
-::: sumbenu-item {href="/nashi-ashramy-yogi/samadkhi-svami-brakhmanandy/"}
+::: sumbenu-item {href="/nashi-ashramy-yogi/samadkhi-svami-brakhmanandi"}
 Самадхи Свами Брахмананды
 :::
 ::: sumbenu-item {href="/nashi-ashramy-yogi/sadkhu-tapovan/"}
