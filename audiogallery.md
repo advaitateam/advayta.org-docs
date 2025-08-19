@@ -1,8 +1,25 @@
 ---
 layout: page-detail
 title: "Аудиогалерея"
-publishDate: 2025-05-16
-redirect_to: https://www.advayta.org/audiogallery/
+publishDate: 01-01-2025
+description: ""
+tags:
+image:
+draft: false
 ---
 
-<iframe width="100%" height="500px" src="https://www.advayta.org/audiogallery/" title="Photogallery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### [Аудиокниги](/audiogalereya/audioknigi)
+
+### [Аудиолекции](/audiogalereya/audiogalereya)
+
+### [Бхаджаны](/audiogalereya/bkhadzhany/)
+
+### [Музыка](/audiogalereya/muzyka/)
+
+### [Радиовещание](/audiogalereya/radioveshchanie/)
+
+### [Священные тексты](/audiogalereya/svyashchennye-teksty/)
+
+Дорогие друзья, если вам нравятся книги и лекции нашего Мастера, если вы цените учение практической Адвайты сиддхов, которое монахами изложено на этом сайте, вы можете поддержать нас удобной для вас суммой. Заранее благодарим. 
+
+  

@@ -1,26 +1,26 @@
 ---
 draft: true
 text: Аудиогалерея
-href: /audiogallery
+href: /audiogalereya
 
 topic: right-menu
 render: true
 ---
-::: sumbenu-item {href="/audiogallery/audioknigi"}
+::: sumbenu-item {href="/audiogalereya/audioknigi"}
 Аудиокниги
 :::
-::: sumbenu-item {href="/audiogallery/audiolektsii"}
+::: sumbenu-item {href="/audiogalereya/audiolektsii"}
 Аудиолекции
 :::
-::: sumbenu-item {href="/audiogallery/bkhadzhany"}
+::: sumbenu-item {href="/audiogalereya/bkhadzhany"}
 Бхаджаны
 :::
-::: sumbenu-item {href="/audiogallery/muzyka"}
+::: sumbenu-item {href="/audiogalereya/muzyka"}
 Музыка
 :::
-::: sumbenu-item {href="/audiogallery/radioveshchanie"}
+::: sumbenu-item {href="/audiogalereya/radioveshchanie"}
 Радиовещание
 :::
-::: sumbenu-item {href="/audiogallery/svyashchennye-teksty"}
+::: sumbenu-item {href="/audiogalereya/svyashchennye-teksty"}
 Священные тексты
 :::

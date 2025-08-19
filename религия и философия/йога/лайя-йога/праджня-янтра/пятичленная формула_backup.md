@@ -8,7 +8,7 @@ draft: false
 description: 
 tags: 
 image:
-source: https://www.advayta.org/audiogallery/audiolektsii/730/?sphrase_id=54950
+source: https://www.advayta.org/audiogalereya/audiolektsii/730/?sphrase_id=54950
 ---
 
 Поговорим о пятеричной формуле. Если вы изучаете учение, то хорошо знаете пятеричную формулу. Она становится для вас способом восприятия, принципом, указывающим суть духовной практики. По сути, понять пятеричную формулу – это значит понять все.
