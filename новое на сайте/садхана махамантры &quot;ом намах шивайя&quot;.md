@@ -10,7 +10,7 @@ draft: false
 
 ### Садхана Махамантры "Ом Намах Шивайя"
 
-![Шива](https://filer-api.advayta.org/v1.0/public/files/12828?type=medium "Шива") 
+![Шива](https://filer-api.advayta.org/v1.0/public/files/12828?size=medium "Шива") 
 
   
 ## **Ом намасте!** 

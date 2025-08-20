@@ -23,7 +23,7 @@ draft: false
 ## Ordine monastico: Juna Akhara
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/51562?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/51562?size=medium) 
 
   
  L'ordine Juna Akkhara è il più numeroso e influente dell'India. "Juna" significa "antico", "akhara" significa "riunione di autorità spirituali". Fondato da Bhagavan Dattatreya.è stato riorganizzato da Adi Shankaracharya in un ordine di sannyasin.
@@ -43,7 +43,7 @@ draft: false
 ## Linea di successione: Swami Brahmananda
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/51569?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/51569?size=medium) 
 
  Swami Vishnudevananda Giri sul suo Guru indigeno:
 

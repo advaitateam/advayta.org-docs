@@ -8,7 +8,7 @@ image: "https://filer-api.advayta.org/v1.0/public/files/3766?type=small"
 draft: false
 ---
 
-![Divinità preferita](https://filer-api.advayta.org/v1.0/public/files/3766?type=medium "Divinità preferita") 
+![Divinità preferita](https://filer-api.advayta.org/v1.0/public/files/3766?size=medium "Divinità preferita") 
 
 ## Dattatreya come Guru dell'umanità  
 
@@ -89,7 +89,7 @@ draft: false
  Questa è una preghiera a Bhagavan Avadhuta Sri Dattatreya per la protezione e la rimozione dei dubbi (recitata in situazioni difficili, dubbi e ostacoli).
 
   
-[![](https://filer-api.advayta.org/v1.0/public/files/51332?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51339?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51332?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51339?size=medium) 
 
   
 ### **La storia di Dattatreya**
@@ -167,7 +167,7 @@ draft: false
 
  Bhagavan Dattatreya stesso non cessa mai di esistere, nemmeno all'inizio della dissoluzione universale (pralaya). Egli è immortale, eterno, perché è Bhagavan, il Sahaja, la Verità infinita ed eterna.
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51340?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51359?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51340?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51359?size=medium) 
 
   
 ### **Testi sacri su Dattatreya**
@@ -226,11 +226,11 @@ draft: false
 
 _1- Chi medita sempre sul Dio degli dei e sull'Eterno come Dattatreya - beatamente sereno, pacifico, splendente del colore blu scuro dello zaffiro, il grande Signore che gode della beatitudine nella sua stessa creazione (maya), il divino, il filosofo-avadhuta, con i quattro lati del mondo come veste,_ 
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51360?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51373?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51360?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51373?size=medium) 
 
 _2\. Con il corpo coperto di cenere sacra, con i capelli aggrovigliati, il Signore Supremo, a quattro braccia, con arti meravigliosi, con gli occhi come i petali di un loto completamente aperto,_ 
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51374?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51381?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51374?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51381?size=medium) 
 
 _3\. Possessore della ricchezza della conoscenza spirituale e dello yoga, maestro del mondo, caro agli yogi, compassionevole con i devoti, testimone di tutte le cose, colui per il quale i santi saggi rendono servizio,_ 
 
@@ -238,7 +238,7 @@ _4\. Chi medita sempre sul Dio degli dei e sull'Eterno, si libera da tutti i pec
 
  «Shandilya Upanishad", capitolo III
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51388?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51389?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51388?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51389?size=medium) 
 
 ### **Dattatreya come Bhagavan**
 
@@ -258,7 +258,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
  Bhagavan è colui che è dotato di "bhaga". Che cos'è il bhaga? La parola "bhaga" comprende sei virtù assolute, perfezioni.
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51402?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51415?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51402?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51415?size=medium) 
 
   
 ### **Divinità perfetta (aishwarya)**
@@ -275,20 +275,20 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
 ### **Perfetto potere divino (viryam, bala)**
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51422?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51423?type=medium)  
+[![](https://filer-api.advayta.org/v1.0/public/files/51422?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51423?size=medium)  
 
  Il perfetto potere divino (viryam, bala) di Dattatreya è la sua capacità di manifestare il quintuplice potere (pancha-kriya), di produrre cinque tipi di azioni - creare, sostenere, distruggere, benedire, castigare, introducendo l'illusione.
 
 ### **Perfetta gloria divina (kirti, yashas)**
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51430?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51443?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51430?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51443?size=medium) 
 
  La gloria divina di Dattatreya è la sua aura estesa, è la sua vibhuti, la manifestazione della sua grazia come Ishvara, il Signore dell'Universo. La gloria di Dattatreya come Bhagavan è illimitata, si manifesta sotto forma di saggezza, benedizioni, ispirazione, luce emessa, ecc.
 
 ### **Ricchezza e prosperità perfette (Sri** **)**
 
   
-[![](https://filer-api.advayta.org/v1.0/public/files/51444?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51457?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51444?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51457?size=medium) 
 
  Questa perfezione comprende tutta la felicità, la buona sorte, la fortuna, l'immortalità, la prosperità, il benessere senza limiti di questo mondo e degli altri mondi.
 
@@ -298,7 +298,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
 ### **Saggezza perfetta (jnana)**
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51458?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51471?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51458?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51471?size=medium) 
 
  La conoscenza, la saggezza di Dattatreya è innanzitutto la conoscenza di Sahajya, la sua Saggezza naturale, la non-divinità, la conoscenza della sua interezza come Assoluto (brahma-aham-bhava), l'interezza al di là di soggetto e oggetto. Non si tratta di un tipo di conoscenza che si può ottenere interrogando e riflettendo. È una comprensione diretta della propria natura di Assoluto al di là del nome, della forma, della mente, dei pensieri e dei concetti (amanaska).
 
@@ -308,7 +308,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
 ### **Perfezione della rinuncia (vairagya** **)**
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51472?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51485?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51472?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51485?size=medium) 
 
  Bhagavan Dattatreya è sempre distaccato dalla creazione del mondo materiale, da questo universo, libero dai desideri, libero dal proprio ego, libero dal karma e dalle sue conseguenze, libero da tutte le azioni e dai loro frutti.
 
@@ -320,7 +320,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
 ### **I cinque poteri di Dattatreya**
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51486?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51493?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51486?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51493?size=medium) 
 
  Dattatreya, nell'aspetto del Signore dell'Universo (Ishvara), è la causa efficiente di tutte le cose (nimitta-karana).
 
@@ -341,7 +341,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 **2\. Mantenimento (sthiti)** 
 
   
-[![](https://filer-api.advayta.org/v1.0/public/files/51506?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51513?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51506?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51513?size=medium) 
 
  Dattatreya appare come Vishnu, il principale Guardiano dell'universo, il protettore e il preservatore dell'equilibrio.
 
@@ -358,7 +358,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
   
 **3\. Dissoluzione (samhara)** 
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51514?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51521?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51514?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51521?size=medium) 
   
   
  Dattatreya, manifestandosi come Shiva, restituisce al mondo manifesto il suo stato originale nel Vuoto.
@@ -370,7 +370,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 **4\. Legame (bandha** **)** 
 
   
-[![](https://filer-api.advayta.org/v1.0/public/files/51534?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51541?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51534?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51541?size=medium) 
 
   
  Manifestando l'energia illusoria (maya), Dattatreya con il suo potere di occultamento (tirodhana-shakti) nasconde la Verità e la divinità. Qui svolge il ruolo di causa del vincolo karmico da parte del creatore di senso (bandha-karta) e di dispensatore di risultati karmici (karma-pahala-datta).
@@ -381,7 +381,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
 **5\. Liberazione (moksha** **)** 
 
-[![](https://filer-api.advayta.org/v1.0/public/files/51542?type=medium)](https://filer-api.advayta.org/v1.0/public/files/51555?type=medium) 
+[![](https://filer-api.advayta.org/v1.0/public/files/51542?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51555?size=medium) 
 
   
  Bhagavan Dattatreya manifesta il suo potere divino di benedizione e grazia illuminante (Anugraha), liberando le anime ignoranti dalla schiavitù (bandha) del sentimento di "io sono il corpo" (deha-bhranti) e dalla falsa nozione di "io sono l'esecutore" (kartritva-buddhi). Egli è qui l'indicatore, il dispensatore di libertà, colui che libera l'anima da tutte le limitazioni, rimuove la schiavitù del karma e ogni sofferenza.

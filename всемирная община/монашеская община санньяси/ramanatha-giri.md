@@ -10,7 +10,7 @@ draft: false
 
 ![](http://congress.advayta.org/images/2016/1.jpg) 
 
-![Раманатха Гири](https://filer-api.advayta.org/v1.0/public/files/11130?type=medium "Раманатха Гири") 
+![Раманатха Гири](https://filer-api.advayta.org/v1.0/public/files/11130?size=medium "Раманатха Гири") 
 
   
  Сайт: [ramanatha.advayta.org](http://ramanatha.advayta.org) 

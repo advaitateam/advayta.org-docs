@@ -41,7 +41,7 @@ draft: false
 
 **Парампара:** Дашанамі санньяса Шрі Аді Шанкарачар'ї
 
-**Сувій-благословення парампари:** [дивитись](https://filer-api.advayta.org/v1.0/public/files/51576?type=medium) 
+**Сувій-благословення парампари:** [дивитись](https://filer-api.advayta.org/v1.0/public/files/51576?size=medium) 
 
 **Вчення:** [Джняна-йога](/religiya-i-filosofiya/yoga/dzhnyana-yoga/), [Бхакті-йога](/religiya-i-filosofiya/yoga/bkhakti-yoga/), [Карма-йога](/religiya-i-filosofiya/yoga/karma-yoga/), [Раджа-йога](/religiya-i-filosofiya/yoga/radzha-yoga/), [Лайя-йога в традиції Сіддхів](/religiya-i-filosofiya/yoga/layya-yoga/) 
 

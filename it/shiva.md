@@ -42,7 +42,7 @@ draft: false
  Quando è necessario distruggere il male e distruggere il falso Ego, dissolvere il vecchio per dare origine al nuovo, Shiva si manifesta nella forma di Vira. Alcuni esempi di questa forma sono Gajasamhara, Bhairava e Virabhadr.
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/55825?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/55825?size=medium) 
 
 ##   
 
@@ -189,7 +189,7 @@ draft: false
  Sulla fronte è presente un terzo occhio, così come il tripundra di ceneri sacre (bhasma o vibhuti).
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/55827?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/55827?size=medium) 
 
 ## 
 
@@ -302,7 +302,7 @@ draft: false
  "[Bhagavata-purana](https://translate.google.com/translate?hl=ru&prev=%5Ft&sl=en&tl=ru&u=https://en.wikipedia.org/wiki/Mohini)[".](https://translate.google.com/translate?hl=ru&prev=%5Ft&sl=en&tl=ru&u=https://en.wikipedia.org/wiki/Mohini)Dopo che Vishnu ingannò i demoni nella sua forma femminile, Shiva volle nuovamente vedere la confusa Mohini. Quando Vishnu acconsentì e mostrò la sua forma a Mohini, Mohini sedusse Shiva. Il suo seme "immutabile" scivolò fuori e cadde a terra. Da questo seme di Shiva nacque Ayyappa.
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/55828?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/55828?size=medium) 
 
 ###   
 

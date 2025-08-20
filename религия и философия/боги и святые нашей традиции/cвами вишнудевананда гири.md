@@ -9,7 +9,7 @@ image: "https://filer-api.advayta.org/v1.0/public/files/14065?type=small"
 draft: false
 ---
 
-![Cвами Вишнудевананда Гири](https://filer-api.advayta.org/v1.0/public/files/14065?type=medium "Cвами Вишнудевананда Гири") 
+![Cвами Вишнудевананда Гири](https://filer-api.advayta.org/v1.0/public/files/14065?size=medium "Cвами Вишнудевананда Гири") 
 
 _Шротрия Брахмаништха Анант_ 
 

@@ -18,7 +18,7 @@ draft: false
 
  Священні тексти, що входять до Потрійного канону: [Брахмасутра](/binaries/file/news/f%5F530.pdf), Упанішади канону [Мукх’я](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BA%D1%85%D1%8C%D1%8F), [Бхагавадгіта](/binaries/file/news/f%5F498.pdf).
 
-| [![](https://filer-api.advayta.org/v1.0/public/files/51599?type=medium)](/library/svyashchennye-teksty/yoga-vasishtkha/) _[Йога Васіштха](/library/svyashchennye-teksty/yoga-vasishtkha/)_ | [![](https://filer-api.advayta.org/v1.0/public/files/51600?type=medium)](/library/svyashchennye-teksty/tripura-rakhasya/) _[Тріпура Рахасья](/library/svyashchennye-teksty/tripura-rakhasya/)_ | [![](https://filer-api.advayta.org/v1.0/public/files/51613?type=medium)](/library/svyashchennye-teksty/viveka-chudamani/) _[Вівека Чудамані](/library/svyashchennye-teksty/viveka-chudamani/)_ |
+| [![](https://filer-api.advayta.org/v1.0/public/files/51599?size=medium)](/library/svyashchennye-teksty/yoga-vasishtkha/) _[Йога Васіштха](/library/svyashchennye-teksty/yoga-vasishtkha/)_ | [![](https://filer-api.advayta.org/v1.0/public/files/51600?size=medium)](/library/svyashchennye-teksty/tripura-rakhasya/) _[Тріпура Рахасья](/library/svyashchennye-teksty/tripura-rakhasya/)_ | [![](https://filer-api.advayta.org/v1.0/public/files/51613?size=medium)](/library/svyashchennye-teksty/viveka-chudamani/) _[Вівека Чудамані](/library/svyashchennye-teksty/viveka-chudamani/)_ |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 
@@ -26,7 +26,7 @@ draft: false
 ## Чоловічий орден: Джуна Акхара
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/51614?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/51614?size=medium) 
 
   
  Орден Джуна Акхара є найчисельнішим і найвпливовішим в Індії. "Джуна" означає "стародавній", "акхара" означає "зібрання духовних авторитетів". Заснований [Бхагаваном Даттатреєю](/religiya-i-filosofiya/izbrannoe-bozhestvo/), він був реорганізований [Аді Шанкарачар'єю](/religiya-i-filosofiya/shankara/) в орден санньясинів.
@@ -46,7 +46,7 @@ draft: false
 ## Лінія наступності: Свамі Брахмананда
 
   
-![](https://filer-api.advayta.org/v1.0/public/files/51627?type=medium) 
+![](https://filer-api.advayta.org/v1.0/public/files/51627?size=medium) 
 
  Свамі Вішнудевананда Гірі про свого корінного Гуру:
 
@@ -66,7 +66,7 @@ _За 20 років (з 1987 по 2007) я отримав від Ачінтья-
 
 [Наша лінія передачі](/religiya-i-filosofiya/nasha-liniya-peredachi/).
 
-| [![](https://filer-api.advayta.org/v1.0/public/files/51628?type=medium)](/binaries/file/news/f%5F3407.pdf) [Традиція Північної Лінії Вчення Адвайта Веданти](/binaries/file/news/f%5F3407.pdf) [Сідх-заклинач змії](/binaries/file/news/f%5F3497.pdf) |  |  |
+| [![](https://filer-api.advayta.org/v1.0/public/files/51628?size=medium)](/binaries/file/news/f%5F3407.pdf) [Традиція Північної Лінії Вчення Адвайта Веданти](/binaries/file/news/f%5F3407.pdf) [Сідх-заклинач змії](/binaries/file/news/f%5F3497.pdf) |  |  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  |  |
   
   
