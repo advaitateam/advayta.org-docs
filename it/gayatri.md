@@ -12,8 +12,6 @@ draft: false
 
   
 ## **Vedamata (Madre dei Veda)** 
-
-  
  Lei \[Gayatri\] è la madre dei quattro colori (varnas), la fonte dei (sei) Vedanga (rami dei Veda) e di tutti i Chanda. È esperta in tutti i mantra del sandhya-vandana e nei Tantra. Lei, tapasvini, è l'essenza del japa e l'essenza del varna dei due nati. Incarna tutti i tipi di samskara, è il tejas (potere, fuoco interiore) di Brahman. È pura, conosciuta come Savitri e Gayatri, risiede sempre nel Brahmaloka (la sfera di Brahma) e tutti i tirtha (luoghi sacri) desiderano il suo tocco per la loro purificazione. Il suo colore è perfettamente bianco, puro come il cristallo. È una pura shuddha-sattva che possiede la natura della beatitudine suprema. È eterna e al di sopra di tutto. Ha la natura di Parabrahman ed è la datrice di moksha. È la Shakti di fuoco, la divinità suprema, Brahma-tejas (fuoco di Brahma). Il mondo intero viene purificato dal tocco dei suoi piedi.
 
  (Devibhagavata Purana libro 9, capitolo 1)

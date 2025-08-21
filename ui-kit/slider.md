@@ -33,9 +33,7 @@ import { SwiperSlide } from 'swiper/vue';
 </VSliderSwiper>
 
 
-##### To add in markdown
-
-
+#### To add in markdown
 ```
 ::::: slider
 ::: slider-item {src="https://filer-api.advayta.org/v1.0/public/files/72423?size=medium"}

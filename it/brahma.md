@@ -21,7 +21,6 @@ draft: false
 
   
 ## Storia dell'emersione 
-
  Secondo la Manu-smriti, i Purana, il Mahabharata (XII), Brahma nasce in un uovo che galleggia nelle acque primordiali sotto forma di embrione d'oro, Hiranyagarbha; dopo aver trascorso un anno nell'uovo, divide l'uovo in due metà con la forza del pensiero; da una crea il cielo, dall'altra la terra; tra esse sorge lo spazio aereo.
 
  Poi compaiono i cinque elementi (acqua, fuoco, terra, aria, etere), il pensiero e, ancora più tardi, gli dei. Inoltre, compaiono il sacrificio, i tre Veda, le stelle, il tempo, le montagne, le pianure, i mari, i fiumi, infine, le persone, la parola, le passioni, la rabbia, l'ira, la gioia, il pentimento, un insieme di opposizioni (caldo - freddo, secchezza - umidità, dolore - gioia, ecc.)
@@ -32,7 +31,6 @@ draft: false
 
   
 ## Percezione filosofica 
-
  Brahma è la manifestazione creativa del Supremo Brahman.
 
  Brahma, secondo i Purana, è quell'aspetto dell'Unità Divina, o Dio, che è responsabile degli atti di creazione, nel senso di rigenerare e conservare il lato materiale di tutte le cose; può anche essere chiamato la sostanza-potenza, che comprende la materia, l'energia e le leggi della natura.
@@ -47,7 +45,6 @@ draft: false
 
   
 ## Templi 
-
  Attualmente in India esistono solo un paio di templi dedicati a Brahma, in particolare a Pushkar. Durante il mese di Kartika (ottobre-novembre) si tiene un festival religioso in cui si onora Brahma.
 
  Ci sono templi anche nello stato di Maharashtra, a Mangalavedha, a Delhi, a Kumbakonam (Tamil Nadu).

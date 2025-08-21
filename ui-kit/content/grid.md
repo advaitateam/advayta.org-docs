@@ -8,7 +8,7 @@ tags:
   - ui-kit
 ---
 
-##### How to use in markdown
+#### How to use in markdown
 will automatically adjust amount of columns
 
 ```

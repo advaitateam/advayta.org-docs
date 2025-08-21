@@ -34,8 +34,7 @@ draft: false
 
  I principi e i principi fondamentali del Sanatana Dharma:
 
-### **Pozzo** 
-
+## **Pozzo** 
  \- Ahimsa è la non violenza.
 
  \- Satya è la veridicità.
@@ -46,8 +45,7 @@ draft: false
 
  \- L'Aparigraha è il non-studentismo.
 
-### **Niyama** 
-
+## **Niyama** 
  \- Tapas - autodisciplina, capacità di autocontrollo e pratica spirituale diligente.
 
  \- Santosha - soddisfazione per ciò che è, atteggiamento gioioso verso la vita, gratitudine.
@@ -59,16 +57,13 @@ draft: false
  \- Ishvara-pranidhana - accettare Dio come unico ideale di vita, dedicare la propria vita alla conoscenza di Dio e al cammino spirituale.
 
   
-### **Karma e moksha** 
-
+## **Karma e moksha** 
  La convinzione che ogni azione perfetta porti a risultati appropriati, quindi lo sforzo di accumulare risultati positivi e di evitare manifestazioni disarmoniche del corpo, della parola e della mente per non accumulare cause negative. La convinzione che attraverso una guida spirituale fedele e una pratica diligente si possa raggiungere la liberazione dai vincoli della realtà terrena e mortale.
 
-### **Sadhana e tapasya** 
-
+## **Sadhana e tapasya** 
  Credere nei metodi ricevuti dai maestri e praticarli diligentemente per tutta la vita fino al raggiungimento della Liberazione. Portare l'intera vita in conformità con la pratica del sentiero.
 
-### **Principio guru-discepolo** 
-
+## **Principio guru-discepolo** 
  Accettazione delle autorità spirituali, della guida diretta.
 
   

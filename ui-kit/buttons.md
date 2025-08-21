@@ -8,16 +8,14 @@ tags:
   - ui-kit
 ---
 ## Location
-
 ```src/core/ui/button```
 
 ## Usage
-
 To add the `VButton` component, start by importing it into your Vue file:
 ```vue
 import VButton from 'UiKit/components/VButton';
 ```
-##### Example
+#### Example
 Place the component in your template like this:
 ```vue
 <VButton
@@ -115,7 +113,7 @@ function handleButtonClick() {
 
 
 ## Examples
-##### Size
+#### Size
 <script setup lang="ts">
 import plusIcon from 'UiKit/assets/images/plus.svg?component';
 </script>
@@ -132,7 +130,7 @@ Small
 </VButton>
 </div>
 
-##### Variant
+#### Variant
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton >
 Default
@@ -148,7 +146,7 @@ Tetriary
 </VButton>
 </div>
 
-##### Color
+#### Color
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton >
 Primary
@@ -161,7 +159,7 @@ Tetriary
 </VButton>
 </div>
 
-##### Color variant outlined
+#### Color variant outlined
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton  variant="outlined" >
 Primary
@@ -175,7 +173,7 @@ Tetriary
 </div>
 
 
-##### Color variant link
+#### Color variant link
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton  variant="link" >
 Primary
@@ -189,14 +187,14 @@ Tetriary
 </div>
 
 
-##### Block
+#### Block
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton block >
 Button
 </VButton>
 </div>
 
-##### Disabled
+#### Disabled
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton disabled >
 Primary
@@ -210,7 +208,7 @@ Tetriary
 </div>
 
 
-##### Loading
+#### Loading
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton loading >
 Button
@@ -218,7 +216,7 @@ Button
 </div>
 
 
-##### Squared
+#### Squared
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton squared >
 Button
@@ -226,7 +224,7 @@ Button
 </div>
 
 
-##### Icon
+#### Icon
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton >
   Icon
@@ -234,7 +232,7 @@ Button
 </VButton>
 </div>
 
-##### Icon only
+#### Icon only
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
 <VButton icon-only >
   <component :is="plusIcon" />

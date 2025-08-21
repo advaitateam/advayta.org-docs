@@ -10,7 +10,7 @@ tags:
 
 Used for designing manta in markdown
 
-#### Use in markdown
+### Use in markdown
 ```
 ::: mantra
  ОМ НАМО НАМАХ ШИВАЙЯ ОМ ШИВА ПРАБХАКАРАЙЯ
@@ -23,7 +23,7 @@ Used for designing manta in markdown
  :::
  ```
 
- ##### Result
+ #### Result
 
  ::: mantra
  ОМ НАМО НАМАХ ШИВАЙЯ ОМ ШИВА ПРАБХАКАРАЙЯ

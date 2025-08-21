@@ -9,10 +9,9 @@ tags:
 ---
 
 ## Overview
-
 The `VBadge` component is a versatile and customizable badge element built using ShadCN Vue [library](https://www.shadcn-vue.com/docs/components/badge.html). It allows you to display labels in various styles, typically used for notifications, counters, or status indicators. The badge's appearance can be easily controlled through props for size, color, and other states.
 
-### Key Features:
+## Key Features:
 - **Customizable Size**: The badge can be rendered in two sizes (`small` or `medium`), allowing flexibility in different contexts.
 - **Color Variants**: Choose from multiple color options (`primary`, `secondary`, `secondary-light`) to suit your design.
 - **Active State**: You can activate the badge's active state with the `isActive` prop, changing its appearance for emphasis.
@@ -22,7 +21,6 @@ The `VBadge` component is located in the `ui-kit/src/components/VBadge` folder.
 
 
 ## Props
-
 - **`size`** (`'medium' | 'small'`, default: `'medium'`): 
   - Defines the size of the badge.
   - `'medium'`: Larger padding and text size.
@@ -41,7 +39,6 @@ The `VBadge` component is located in the `ui-kit/src/components/VBadge` folder.
   - Enables hover effects, changing the background color when the badge is hovered.
 
 ## Usage
-
 The `VBadge` component is used to display badges with different properties, and it's highly customizable through the available props. Here’s an example of how to use it:
 
 ```vue
@@ -97,7 +94,7 @@ import VBadge from 'UiKit/components/VBadge/VBadge.vue';
 </template>
 ```
 
-##### Sizes
+#### Sizes
 <script setup lang="ts">
 import VBadge from 'UiKit/components/Base/VBadge/VBadge.vue';
 import VBadgeClickToBlog from 'UiKit/components/VBadge/VBadgeClickToBlog.vue';
@@ -121,7 +118,7 @@ const dataInline = ['badge1', 'badge2', 'badge3']
   </VBadge>
 </div>
 
-##### Hover
+#### Hover
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
   <VBadge
     color="secondary-light"
@@ -131,7 +128,7 @@ const dataInline = ['badge1', 'badge2', 'badge3']
   </VBadge>
 </div>
 
-##### Active
+#### Active
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;">
   <VBadge
     color="secondary-light"
@@ -141,7 +138,7 @@ const dataInline = ['badge1', 'badge2', 'badge3']
   </VBadge>
 </div>
 
-##### Color 
+#### Color 
 <div style="gap: 20px;display: flex;align-items: center;margin-bottom: 20px;flex-wrap: wrap;">
   <VBadge
     color="secondary-light"
@@ -208,36 +205,34 @@ const dataInline = ['badge1', 'badge2', 'badge3']
 ## Additional Usage
 The VBadge component also includes predefined variations to suit specific use cases. These variations extend the functionality of VBadge while maintaining consistency across the project. Below are two predefined components you can find in the ui-kit/src/components/VBadge directory:
 
-#### VBadgeClickToBlog
+### VBadgeClickToBlog
 This component simplifies the creation of badges that redirect users to a blog page filtered by a specific tag.
 
-##### Props:
+#### Props:
 - `text`(required): The text to be displayed on the badge.
 
-##### Features:
+#### Features:
 - Default color: `secondary-light`.
 - Includes a hover effect for interactivity.
 - Clicking the badge redirects to a blog page with the relevant tag filter applied.
 
-##### Example
-
+#### Example
 <VBadgeClickToBlog
   text="Click to blog"
 />
 
-#### VBadgeClickToBlogInline
+### VBadgeClickToBlogInline
 This component allows you to display multiple VBadgeClickToBlog components inline, using a predefined style that ensures consistency with the rest of the project.
 
-##### Props:
+#### Props:
 - `data`(required): An array of strings, where each string represents the text of an individual badge.
 
-##### Features:
+#### Features:
 - Displays a list of badges in a horizontal row.
 - Each badge inherits the `VBadgeClickToBlog` functionality, including hover effects and redirection to the blog page.
 
 
-##### Example
-
+#### Example
 <VBadgeClickToBlogInline
   :data="dataInline"
 />

@@ -12,20 +12,18 @@ tags:
 The `VCardCourse` component is a versatile card designed for displaying article information, including a publish date, title, description, and an optional cover image. It supports customizable styles and layouts.
 Location: `ui-kit/src/components/VCard/VCardCourseListElement.vue`
 
-### Props
-
+## Props
 | Prop Name   | Type               | Required | Default | Description                                                             |
 |-------------|--------------------|----------|---------|-------------------------------------------------------------------------|
 | `data`      | `IFrontmatter`     | Yes      | —       | The article's metadata, including title, description, publish date, and cover image. |
 | `small`     | `Boolean`          | No       | `false` | Enables a compact layout for the card.                                 |
 
-### Slots
-
+## Slots
 | Slot Name | Description                                      |
 |-----------|--------------------------------------------------|
 | Default   | Content inside the card's main body.            |
 
-### Example
+## Example
 ```vue
 <script setup lang="ts">
 import VCardCourse from 'UiKit/components/VCard/VCardCourseListElement.vue';
@@ -88,11 +86,9 @@ const articles = [
 />
 
 ## VSectionCardCourseList Component
-
 The `VSectionCardCourseList` component is a structured section that displays a list of articles in a styled layout. It integrates with the `VCardCourse` component for individual article cards. Location: `ui-kit/src/components/VCard/VSectionCardCourseList.vue`
 
-### Props
-
+## Props
 | Prop Name    | Type                   | Required | Default | Description                                                                 |
 |--------------|------------------------|----------|---------|-----------------------------------------------------------------------------|
 | `title`      | `String`               | No       | —       | The main title of the section.                                             |
@@ -103,15 +99,14 @@ The `VSectionCardCourseList` component is a structured section that displays a l
 | `noContainer`| `Boolean`              | No       | `false` | Determines if the section has a container wrapper.                         |
 
 
-### Slots
-
+## Slots
 | Slot Name    | Description                                     |
 |--------------|-------------------------------------------------|
 | `infoShort`  | Content displayed in the section header's short info area. |
 | `noData`     | Custom content to display when the `items` array is empty. |
 
 
-### Example
+## Example
 ```vue
 <script setup lang="ts">
 import VSectionCardCourseList from 'UiKit/components/VCard/VSectionCardCourseList.vue';
@@ -158,8 +153,7 @@ const articles = [
 </template>
 ```
 
-##### No data:
-
+#### No data:
 <div style="margin: 40px -15px;">
 <VSectionCardCourseList
     title="Latest Articles"
@@ -175,8 +169,7 @@ const articles = [
 </VSectionCardCourseList>
 </div>
 
-##### Section with list:
-
+#### Section with list:
 <div style="margin: 40px -15px;">
 <VSectionCardCourseList
     title="Latest Articles"

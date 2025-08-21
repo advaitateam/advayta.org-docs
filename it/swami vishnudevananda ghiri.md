@@ -32,8 +32,6 @@ draft: false
 
   
 ## La tradizione: L'Advaita pratico dei Siddha
-
-  
  L'Advaita afferma che la vera essenza del jiva, l'individualità, non è altro che Brahman stesso, l'Assoluto. Letteralmente "non due", la non-dualità della realtà, l'indivisibilità dell'unità.
 
   

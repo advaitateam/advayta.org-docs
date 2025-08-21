@@ -58,8 +58,6 @@ draft: false
   
   
 ## **Raja yoga** 
-
-  
  La parola raja si traduce con re. Nel contesto del raja yoga, indica un re che è sempre in uno stato di illuminazione. Il re simboleggia qualcosa che è dentro di noi e che va oltre la nostra concezione ordinaria di noi stessi. Raja può anche indicare un essere o un potere divino.
 
  Il Raja Yoga, da un punto di vista filosofico, è spesso descritto come un percorso per riconoscere l'esistenza di Ishvara. In questo contesto, la parola re è Dio sotto l'aspetto di Ishvara. Nei Veda, la parola raja in relazione a Ishvara è menzionata molte volte.
@@ -92,8 +90,6 @@ draft: false
   
   
 ## **Jnana yoga** 
-
-  
  È il sentiero della ricerca. Non è il sentiero dell'intelletto, perché lo jnana yoga mira a superare le limitazioni dell'intelletto o delle facoltà logiche dell'uomo, perché l'intelletto fa parte dello strumento interiore del jiva, fatto di esperienze passate e del deposito di samskara associati alle incarnazioni passate, cioè ci ha portato allo stato di limitazione in cui ci troviamo.
 
  Il Jnana Yoga è il sentiero della conoscenza intuitiva ed è illogico, cioè non può essere descritto con la semplice logica del mondo umano (logica aristotelica).
@@ -124,8 +120,6 @@ draft: false
   
   
 ## **Bhakti yoga** 
-
-  
  "Tra le cose che contribuiscono alla liberazione, la bhakti è la più importante. Una definizione di bhakti è la ricerca della propria vera natura. Esplorare la verità del proprio essere è devozione".
 
  Viveka Chudamani di Shankaracharya, shloka 31 e 32.
@@ -170,8 +164,6 @@ draft: false
   
   
 ## **Karma yoga** 
-
-  
  Nelle prime Upanishad, come la Kena e la Isha, i precetti del karma-yoga furono formulati per la prima volta in modo indiretto, anche se la sua piena essenza fu esposta più tardi, nella Bhagavad Gita. È in queste Upanishad che fu dimostrato per la prima volta che era possibile seguire il sentiero dello yoga e raggiungere la sua vetta senza rinunciare all'adempimento dei doveri quotidiani.
 
  Questo percorso può portare alla stessa esperienza di altri tipi di yoga. Swami Satyananda, come il suo guru Swami Sivananda, conferma e sottolinea l'importanza del karma yoga per raggiungere l'esperienza della meditazione: "Si dovrebbe svolgere un compito in qualsiasi momento. L'assorbimento totale in qualsiasi lavoro insegna gradualmente alla mente a dimenticare la sua abituale incostanza e instabilità. Se vi immergete nel lavoro da svolgere con completa concentrazione e attenzione indivisa, questo vi sarà di grande aiuto nella meditazione".
@@ -226,8 +218,6 @@ draft: false
   
   
 ## **Laya yoga**
-
-  
  I cinque yantra del Laya yoga
 
  Il sentiero della saggezza (Prajnya-yantra) implica la padronanza di uno stato contemplativo continuo, l'immersione nella Fonte Suprema (sahaja-sthiti). A questo scopo lo yogi viene addestrato alla medita-zione seduta e in movimento.
@@ -245,9 +235,7 @@ draft: false
  Il sentiero dello Yoga della Luce (Jyoti Yoga) prevede metodi segreti di contemplazione della luce, che in breve tempo generano visioni lumi-nose: divinità, mandala, sfere di luce, ecc. Esercitando la contempla-zione, lo yogi lavora con le visioni passando successivamente at-traverso quattro stadi: "inizio", "contenitore", "accrescimento" ed "esau-rimento".
 
   
-### **I quattro livelli dell'Insegnamento** 
-
-  
+## **I quattro livelli dell'Insegnamento** 
  Gli Insegnamenti prevedono quattro livelli:
 
 * esternamente,
@@ -360,9 +348,7 @@ draft: false
  Questo approccio è stato dimostrato da molti importanti santi siddhi an-tichi e moderni: il siddh tamil Boganatar conosciuto in Cina come Bo-Yang, Sai Baba di Shirdi che offriva preghiere in una moschea e nei templi indù contemporaneamente, Sri Ramakrishna che "giocava" con diverse religioni, Neem Karoli Baba che onorava Hanuman insieme a Cristo, l'attuale Avatar Bhagavan Sri Sathya Sai Baba, l'Avatar Sri Satchitananda Ganapati e altri.
 
   
-### **Laya yoga e induismo tradizionale** 
-
-  
+## **Laya yoga e induismo tradizionale** 
  Quando si dice che l'Insegnamento del Laya Yoga è una tradizione tan-trica dei Siddha, si sottolinea la sua differenza dal cosiddetto Induismo tradizionale ortodosso con il suo sistema di caste, i quattro modi di vita (ashram), le numerose divinità, le pratiche rituali, le feste e il simbolis-mo.
 
   
@@ -405,8 +391,6 @@ draft: false
   
   
 ## **L'insegnamento dei 16 nodi dell'ignoranza**
-
-  
  L'insegnamento sui sedici nodi che ostacolano la vera conoscenza (vidya-granthas) è una parte importante della sezione generale del Laya Yoga e fornisce un'analisi dettagliata delle principali forme di ig-noranza (ajnyana) che sono profondamente radicate nella nostra co-scienza, impedendo la Liberazione e l'Illuminazione.
 
   

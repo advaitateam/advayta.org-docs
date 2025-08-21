@@ -8,7 +8,6 @@ tags:
   - ui-kit
 ---
 ## Overview
-
 The `VAccordion` component is a flexible and highly customizable accordion element built using the ShadCN Vue library ([official documentation](https://www.shadcn-vue.com/docs/components/accordion.html)). It allows you to create collapsible and expandable sections, making it ideal for displaying content like FAQ lists, dropdowns, and structured information in an interactive way.
 
 This component is composed of several subcomponents, each with a specific role in managing different parts of the accordion:
@@ -22,14 +21,12 @@ This component is composed of several subcomponents, each with a specific role i
 These components are located in the path: `ui-kit/src/components/Base/VAccordion`.
 
 ## Props
-
 The `VAccordion` component inherits props from the ShadCN library, which offers flexibility to control various aspects of the accordion's behavior. You can find a complete list of the props in the official [ShadCN documentation](https://www.shadcn-vue.com/docs/components/accordion.html).
 
 Additionally, the `VAccordionTrigger` component includes a custom prop that is specific to the UiKit integration:
 - **`isWhite`**: A prop that modifies the background color and box shadow of the trigger button when the accordion item is expanded.
 
 ## Usage
-
 For an easy-to-use accordion component in your project, the `VAccordionList` component provides a styled wrapper around the base accordion components. It is designed to manage a list of items with titles and descriptions.
 
 The `VAccordionList` component is located in the `ui-kit/src/components/VAccordion/VAccordionList.vue` file, and here's an example of how it's structured:
@@ -86,15 +83,14 @@ defineProps({
 </style>
 ```
 
-#### Key Features
-
+### Key Features
 - **`Single Accordion Mode`**: The type="single" prop ensures that only one accordion item can be expanded at a time.
 - **`Collapsible Option`**: The `collapsible` prop allows users to collapse all items, making the accordion behavior more flexible.
 - **`Custom Styling`**: The `VAccordionList` component supports custom styling for the titles and content. For instance, the description content is styled with a specific gray color for readability.
 
 The VAccordionList makes it easy to display a list of accordion items with dynamically generated content, ensuring both flexibility and ease of use.
 
-#### Example
+### Example
 <script setup lang="ts">
 import VAccordionList from 'UiKit/components/VAccordion/VAccordionList.vue';
 const data = [

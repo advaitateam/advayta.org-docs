@@ -3,8 +3,7 @@ layout: page-detail
 title: "Наши ресурсы"
 publishDate: 2025-05-16
 ---
-### **YouTube**
-
+## **YouTube**
 - Видеоканал лекций Шри Гуру Свами Вишнудевананда Гири и доклады монахов "Ведический мир":  [https://www.youtube.com/channel/UCEPPjoxhaTmiZL00N2RQgVQ](https://www.youtube.com/channel/UCEPPjoxhaTmiZL00N2RQgVQ)
 
 - Видеоканал лекций Свами Вишнудевананда Гири с английскими субтитрами:  [ссылка](https://www.youtube.com/channel/UCgulyMBiOzsoQ64_X3OTFZQ)
@@ -29,8 +28,7 @@ publishDate: 2025-05-16
 
 ---
 
-### **Наши сайты**
-
+## **Наши сайты**
 - Официальный главный сайт общины:  [https://www.advayta.org](https://www.advayta.org)
 
 - Немецкая версия:  [https://de.advayta.org](https://de.advayta.org)
@@ -63,8 +61,7 @@ publishDate: 2025-05-16
 
 ---
 
-### **Интернет-магазины**
-
+## **Интернет-магазины**
 - Книги и товары на нашем сайте:  [https://www.advayta.org/shop/books/](https://www.advayta.org/shop/books/)
 
 - Магазин «Siddha Shop»:  [http://www.siddhashop.com](http://www.siddhashop.com)
@@ -73,8 +70,7 @@ publishDate: 2025-05-16
 
 ---
 
-### **Инстаграм**
-
+## **Инстаграм**
 - Ведический путь:  [https://instagram.com/vedicpath/](https://instagram.com/vedicpath/)
 
 - Свами Вишнудевананда Гири (Видья Сагара ашрам):  [https://www.instagram.com/swami_vishnudevananda_giri/](https://www.instagram.com/swami_vishnudevananda_giri/)
@@ -97,16 +93,14 @@ publishDate: 2025-05-16
 
 ---
 
-### **Телеграм**
-
+## **Телеграм**
 - Канал Свами Вишнудевананда Гири:  [https://t.me/swami_vishnudevananda_giri](https://t.me/swami_vishnudevananda_giri)
 
 - Канал движения "Йоги за мир":  [https://t.me/yogisforpeace](https://t.me/yogisforpeace)
 
 ---
 
-### **Facebook**
-
+## **Facebook**
 - Свами Вишнудевананда Гири (рус):  [https://www.facebook.com/mahamandaleshwar](https://www.facebook.com/mahamandaleshwar)
 
 - Украинский:  [https://www.facebook.com/SwamiVishnudevanandaGiriUA](https://www.facebook.com/SwamiVishnudevanandaGiriUA)
@@ -129,8 +123,7 @@ publishDate: 2025-05-16
 
 ---
 
-### **ВКонтакте**
-
+## **ВКонтакте**
 - Шри Гуру Свами Вишнудевананда Гири:  [http://vk.com/svami_visnudevananda_giri](http://vk.com/svami_visnudevananda_giri)
 
 - Ведический Путь:  [http://vk.com/vedic_path](http://vk.com/vedic_path)

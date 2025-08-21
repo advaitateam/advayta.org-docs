@@ -8,7 +8,6 @@ tags:
   - ui-kit
 ---
 ## Overview
-
 The `VBreadcrumb` component is a flexible and highly customizable element built using the ShadCN Vue library ([official documentation](https://www.shadcn-vue.com/docs/components/breadcrumb.html)). It displays the path to the current resource using a hierarchy of links.
 
 
@@ -27,7 +26,7 @@ These components are located in the path: `ui-kit/src/components/Base/VBreadcrum
 Use `VBreadcrumbsList` (ui-kit/src/components/VBreadcrumb/VBreadcrumbsList.vue)
 to dysplay basic default styles for bredcrumbs
 
-##### Props:
+#### Props:
 - `data`(required): An array of bredcrumb, where each element has inreface
 ```
 interface IBreadcrumb {
@@ -36,12 +35,11 @@ interface IBreadcrumb {
 }
 ```
 
-##### Features:
+#### Features:
 - Displays a list of breadcumbs in a horizontal row.
 - If href is not provided then it is simple text styles with no ability to click link
 
-##### Example
-
+#### Example
 <script setup lang="ts">
 import VBreadcrumbsList from 'UiKit/components/VBreadcrumb/VBreadcrumbsList.vue';
 import VBreadcrumbsListCollapsed from 'UiKit/components/VBreadcrumb/VBreadcrumbsListCollapsed.vue';
@@ -95,7 +93,7 @@ Example with `->` as Separator:
 </VBreadcrumbsList>
 
 ## Advanced Usages
-#### Collapsed Breadcrumbs
+### Collapsed Breadcrumbs
 For scenarios where the breadcrumb trail becomes too long, you can use the `VBreadcrumbsListCollapsed` component in location `ui-kit/src/components/VBreadcrumb`. This will collapse intermediate items into an ellipsis (...) while keeping the first and last few breadcrumbs visible.
 
 <VBreadcrumbsListCollapsed
@@ -103,14 +101,14 @@ For scenarios where the breadcrumb trail becomes too long, you can use the `VBre
     class="is--margin-top-30"
 />
 
-##### Dropdown
+#### Dropdown
 The `VBreadcrumbsListDropdown` component enables you to collapse intermediate breadcrumb items into a dropdown. This dropdown provides an intuitive way to access the hidden items when needed.
 <VBreadcrumbsListDropdown
     :data="breadcrumbsList2"
     class="is--margin-top-30"
 />
 
-##### Collapsed Dropdown
+#### Collapsed Dropdown
 Combine the functionality of collapsed breadcrumbs with a dropdown using the `VBreadcrumbsListCollapsedDropdown` component. This setup is ideal for complex breadcrumb structures, offering an ellipsis with a dropdown menu for hidden items.
 <VBreadcrumbsListCollapsedDropdown
     :data="breadcrumbsList2"

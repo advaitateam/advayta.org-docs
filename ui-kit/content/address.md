@@ -10,7 +10,7 @@ tags:
 
 Used for designing address info in markdown
 
-#### Use in markdown
+### Use in markdown
 ```
 
 ::: address
@@ -33,7 +33,7 @@ Used for designing address info in markdown
 
  ```
 
- ##### Result
+ #### Result
 
 ::: address
  Ашрам Свами Брахмананды в Омаллуре:

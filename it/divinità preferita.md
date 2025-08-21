@@ -11,10 +11,7 @@ draft: false
 ![Divinità preferita](https://filer-api.advayta.org/v1.0/public/files/3766?size=medium "Divinità preferita") 
 
 ## Dattatreya come Guru dell'umanità  
-
-  
 ## **Prefazione dell'autore**
-
  Sul sentiero spirituale ogni ricercatore spirituale prima o poi si rende conto che il mondo, il modo di vivere, i valori e i significati con cui gli uomini vivono non esistono di per sé, ma si basano su qualcosa di più grande, più profondo, su ciò che è invisibile, sacro, segreto, nascosto, divino.
 
  Solo penetrando in questo regno segreto e sacro del divino si possono trovare le risposte a tutte le domande. È inutile cercare risposte alle domande fondamentali della vita, cercare la Verità nella nostra dimensione umana profana.
@@ -66,14 +63,11 @@ draft: false
 
   
 ## **Capitolo 1: Dattatreya come divinità prescelta**
-
-### **Canto di lode a Bhagavan Dattatreya**
-
+## **Canto di lode a Bhagavan Dattatreya**
 | Ancora e ancora,  tremando di gioia,  Piangere con stupore e devozione  insieme a tutti gli esseri viventi,  Con il corpo, la parola e la mente.  Lodo questo grande Signore,  Il Guru di tutti i Guru,  un leone tra i saggi,  Il re tra tutti gli yogi,  avadhutas e siddhas,  un dio tra gli dei...  Bhagavan Dattatreya,  Colui che è la Verità ultima stessa,  che è il Bhagavan supremo,  Possedere i sei infiniti  con perfezione:  Per onnipotenza (aishwarya),  dal potere divino (bala),  con la gloria divina (yasha),  Ricchezza universale di energie e prosperità (shri),  dalla conoscenza divina (jnana),  E anche con la rinuncia  e l'autosufficienza (vairagya).  Sono stato più e più volte  lodando il grande Dio,  Che, essendo lui stesso Parabrahman,  dando vita a mondi e universi,  Contiene Brahma, Vishnu e Shiva  insieme ai loro coniugi, accompagnatori ed entourage,  Quella onnisciente, onnicomprensiva,  l'onnipervadente Shaktiman.  Signore di tutte le forze dell'universo,  Colui che possiede  i tre grandi divini  dalle forze dell'universo:  Saggezza,  di volontà e azione,  Visibile come Mahasaraswati,  Mahalakshmi e Maheshwari.  Lodo il più grande,  che è lodato dai rishi, dai kumar, dai siddhi.  per la sua infinita saggezza,  potenza e gloria divina,  Il Signore degli yogi e dei siddha,  che contiene tutti i devata,  Come Indra, Vayu, Soma,  Surya, Varuna, Agni,  Kuvera, Rudras e Marut,  Chi è il destinatario  per milioni di gandharva, di charan,  vidyadhara, apsara, kinnara,  gli Yaksha, i Guhyak, i Naga.  e altre creature magiche,  Colui che è nel cuore  ogni guru, ogni santo e sadhu  Come il suo Sé superiore  sotto forma di spazio di pura coscienza,  come il vasto cielo.  Che non ha rivali,  che possiede i cinque grandi poteri  E può creare e sostenere a piacimento,  dissolvere, legare con la loro maya (illusione)  E per liberare con la sua grazia (Anugraha)  degli innumerevoli esseri di questo samsara.  Grazie mille volte,  gloria, o Bhagavan Dattatreya!  Quello che ha un solo nome,  fedelmente riferito a  o addirittura senza fede,  Intenzionalmente  o accidentalmente,  Vi libera da innumerevoli sofferenze  e peccati  E dona una conoscenza inimmaginabile,  forza e benedizioni! |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### **Preghiera a Dattatreya**
-
+## **Preghiera a Dattatreya**
  O santo Guru! O grande signore di tutti gli yogi! O Dattatreya, figlio di Atri e Anasuya!
 
  Colui che incarna tutti gli dei, il cui solo sguardo dona la Liberazione!
@@ -92,9 +86,7 @@ draft: false
 [![](https://filer-api.advayta.org/v1.0/public/files/51332?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51339?size=medium) 
 
   
-### **La storia di Dattatreya**
-
-  
+## **La storia di Dattatreya**
  Bhagavan Dattatreya è il Guru di tutti i Guru, il Precettore originale di tutti gli yogi e i siddha. Egli incarna il principio della prospettiva Advaita e del comportamento auto-liberato - il gioco nella forma di avadhuta.
 
  Dattatreya è l'incarnazione della Trinità degli Dei (Trimurti): Creatore, Conservatore e Distruttore (Brahma, Vishnu e Shiva) che si è incarnato nella famiglia dei Rishi Atri e Anasuya, dando loro questa benedizione dopo che Anasuya aveva insegnato loro la lezione della purezza e dell'umiltà con il suo potere spirituale.
@@ -170,8 +162,7 @@ draft: false
 [![](https://filer-api.advayta.org/v1.0/public/files/51340?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51359?size=medium) 
 
   
-### **Testi sacri su Dattatreya**
-
+## **Testi sacri su Dattatreya**
  ВNella Dattatreya Upanishad, Dattatreya è descritto come colui sul quale Brahma e Vishnu stesso, che è Parabrahman, meditano:
 
  "Un giorno il Creatore Brahma, che risiedeva nel Satya Loka - il suo regno celeste universale - chiese al Signore Narayana l'efficacia del taraka-mantra e quest'ultimo pronunciò quanto segue:
@@ -240,8 +231,7 @@ _4\. Chi medita sempre sul Dio degli dei e sull'Eterno, si libera da tutti i pec
 
 [![](https://filer-api.advayta.org/v1.0/public/files/51388?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51389?size=medium) 
 
-### **Dattatreya come Bhagavan**
-
+## **Dattatreya come Bhagavan**
 _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, il più grande degli yogi, l'Anima suprema»._ 
 
  «Dattatreya-kavacha»
@@ -261,8 +251,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 [![](https://filer-api.advayta.org/v1.0/public/files/51402?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51415?size=medium) 
 
   
-### **Divinità perfetta (aishwarya)**
-
+## **Divinità perfetta (aishwarya)**
  È la divinità perfetta (aishvarya) che si manifesta come onniscienza, grandezza, beatitudine, onnipresenza, purezza, bellezza, amore, armonia, eternità, infinità, incomprensibilità, potenza, potere, autorità, poteri soprannaturali, ecc.
 
  Dattatreya possiede la pienezza della divinità, anche se spesso la nasconde dietro le varie maschere di un uomo comune, di un sadhu, di un mendicante o di uno che è incline al piacere e al divertimento. Questa è l'imperscrutabilità dei giochi di Dattatreya.
@@ -273,21 +262,17 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
  Un corpo di Dattatreya può risiedere in samadhi sulle montagne, in meditazione, e con il potere del samadhi la sua mente può creare molti corpi materiali, ognuno con la propria volontà, intelligenza, memoria, karma, missione, ambiente e dotato del proprio sankalpa.
 
-### **Perfetto potere divino (viryam, bala)**
-
+## **Perfetto potere divino (viryam, bala)**
 [![](https://filer-api.advayta.org/v1.0/public/files/51422?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51423?size=medium)  
 
  Il perfetto potere divino (viryam, bala) di Dattatreya è la sua capacità di manifestare il quintuplice potere (pancha-kriya), di produrre cinque tipi di azioni - creare, sostenere, distruggere, benedire, castigare, introducendo l'illusione.
 
-### **Perfetta gloria divina (kirti, yashas)**
-
+## **Perfetta gloria divina (kirti, yashas)**
 [![](https://filer-api.advayta.org/v1.0/public/files/51430?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51443?size=medium) 
 
  La gloria divina di Dattatreya è la sua aura estesa, è la sua vibhuti, la manifestazione della sua grazia come Ishvara, il Signore dell'Universo. La gloria di Dattatreya come Bhagavan è illimitata, si manifesta sotto forma di saggezza, benedizioni, ispirazione, luce emessa, ecc.
 
-### **Ricchezza e prosperità perfette (Sri** **)**
-
-  
+## **Ricchezza e prosperità perfette (Sri** **)**
 [![](https://filer-api.advayta.org/v1.0/public/files/51444?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51457?size=medium) 
 
  Questa perfezione comprende tutta la felicità, la buona sorte, la fortuna, l'immortalità, la prosperità, il benessere senza limiti di questo mondo e degli altri mondi.
@@ -296,8 +281,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
  Dattatreya ha una ricchezza perfetta in ogni aspetto. Può manifestarsi a suo piacimento in qualsiasi dimensione attraverso i suoi corpi illusori. Può assumere la forma di un devata, di un essere umano, di una statua, di un testo sacro, di un tempio, di un sadhu, di un capofamiglia, di un siddha, di un re, di una foresta, di un fiume, di una montagna, di un paese puro e persino dell'intero universo.
 
-### **Saggezza perfetta (jnana)**
-
+## **Saggezza perfetta (jnana)**
 [![](https://filer-api.advayta.org/v1.0/public/files/51458?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51471?size=medium) 
 
  La conoscenza, la saggezza di Dattatreya è innanzitutto la conoscenza di Sahajya, la sua Saggezza naturale, la non-divinità, la conoscenza della sua interezza come Assoluto (brahma-aham-bhava), l'interezza al di là di soggetto e oggetto. Non si tratta di un tipo di conoscenza che si può ottenere interrogando e riflettendo. È una comprensione diretta della propria natura di Assoluto al di là del nome, della forma, della mente, dei pensieri e dei concetti (amanaska).
@@ -306,8 +290,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
  Dattatreya possiede la completezza e la perfezione di questa conoscenza. L'Avadhuta Gita da lui esposta al suo discepolo lo conferma.
 
-### **Perfezione della rinuncia (vairagya** **)**
-
+## **Perfezione della rinuncia (vairagya** **)**
 [![](https://filer-api.advayta.org/v1.0/public/files/51472?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51485?size=medium) 
 
  Bhagavan Dattatreya è sempre distaccato dalla creazione del mondo materiale, da questo universo, libero dai desideri, libero dal proprio ego, libero dal karma e dalle sue conseguenze, libero da tutte le azioni e dai loro frutti.
@@ -318,8 +301,7 @@ _«Mi inchino davanti al Signore Dattatreya, l'incarnazione di Sat-Chit-Ananda, 
 
  Dattatreya è Bhagavan perché chi possiede pienamente queste sei qualità è Bhagavan.
 
-### **I cinque poteri di Dattatreya**
-
+## **I cinque poteri di Dattatreya**
 [![](https://filer-api.advayta.org/v1.0/public/files/51486?size=medium)](https://filer-api.advayta.org/v1.0/public/files/51493?size=medium) 
 
  Dattatreya, nell'aspetto del Signore dell'Universo (Ishvara), è la causa efficiente di tutte le cose (nimitta-karana).

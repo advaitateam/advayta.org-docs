@@ -12,13 +12,11 @@ tags:
 This document explains how to use the general infinite scroll solution implemented in the codebase.
 
 ## Overview
-
 The infinite scroll functionality has been implemented as a reusable solution as composable:
 
 1. **`useInfiniteScroll` composable** - Core logic for infinite scroll (located in `@/core/composables/useInfiniteScroll`)
 
 ## Using the Composable (Recommended)
-
 The `useInfiniteScroll` composable provides the most flexible approach:
 
 ```vue

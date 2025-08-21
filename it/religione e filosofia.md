@@ -21,8 +21,6 @@ draft: false
   
   
 ## Ordine monastico: Juna Akhara
-
-  
 ![](https://filer-api.advayta.org/v1.0/public/files/51562?size=medium) 
 
   
@@ -38,11 +36,8 @@ draft: false
 
  Per saperne di più Juna Akhare. О Shri Gaudapada.
 
-###   
-
+##   
 ## Linea di successione: Swami Brahmananda
-
-  
 ![](https://filer-api.advayta.org/v1.0/public/files/51569?size=medium) 
 
  Swami Vishnudevananda Giri sul suo Guru indigeno:
@@ -59,8 +54,6 @@ draft: false
 
   
 ## La nostra linea di trasmissione
-
-  
 **Domande e risposte** 
 
  La nostra linea di trasmissione (guru-shishya parampara):

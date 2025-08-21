@@ -64,8 +64,6 @@ draft: false
 
   
 ## **La storia della nascita di Dattatreya** 
-
-  
  Bhagavan Dattatreya è il Guru di tutti i Guru, il Precettore originale di tutti gli yogi e i siddha. Egli incarna il principio della prospettiva Advaita e del comportamento auto-liberato, interpretando la forma di un ava-dhuta.
 
  Dattatreya è l'incarnazione della Trinità degli Dei (Trimurti): Creatore, Conservatore e Distruttore (Brahma, Vishnu e Shiva) che si è incarnato nella famiglia dei Rishi Atri e Anasuya, dando loro questa benedizione dopo che Anasuya aveva insegnato loro la lezione della purezza e dell'umiltà con il suo potere spirituale.
@@ -128,8 +126,6 @@ draft: false
   
   
 ## **Testi sacri su Dattatreya** 
-
-  
  Nella Dattatreya Upanishad, Dattatreya è descritto come colui sul quale Brahma e Vishnu stesso, che è Parabrahman, meditano:
 
  "Un giorno il Creatore Brahma, che risiedeva nel Satya Loka - il suo regno celeste universale - chiese al Signore Narayana l'efficacia del taraka-mantra, e quest'ultimo pronunciò quanto segue:

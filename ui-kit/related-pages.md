@@ -98,17 +98,17 @@ const relatedPages = computed(() => {
 ## VSectionRelatedPages
 The `VSectionRelatedPages` component wraps the `VRelatedPages` component within a `VSection`, allowing for a title slot and providing a structured layout for displaying related pages.
 
-### Props
+## Props
 | Prop Name   | Type                      | Required | Description |
 |-------------|---------------------------|----------|-------------|
 | `data`      | `IRelatedPages[]`        | Yes      | An array of related pages, each containing a group and its items. |
 
 
-### Slots
+## Slots
 - `default`: Slot for additional content displayed above the related pages.
 
 
-### Example
+## Example
 ```vue
 <script setup lang="ts">
   import VSectionRelatedPages from 'UiKit/components/VRelatedPages/VSectionRelatedPages.vue';

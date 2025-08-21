@@ -42,8 +42,6 @@ draft: false
 
   
 ## **Da una conferenza di Sri Guru Swami Vishnudevananda Giri, 21 gennaio 2010**
-
-  
  Mahasaraswati è la forza madre del lavoro e il suo spirito di perfezione e ordine. La più giovane, è la più abile nella capacità di realizzare qualsiasi cosa e la più vicina alla natura fisica. Maheshwari dà le indicazioni di base ai processi del mondo. Mahakali dà loro energia e slancio. Mahalakshmi ne scopre il ritmo e la misura. Ma è Mahasaraswati che controlla la loro organizzazione ed esecuzione dettagliata, la relazione tra le parti, l'efficace combinazione delle forze, l'infallibilità e l'accuratezza dei risultati e delle realizzazioni.
 
   

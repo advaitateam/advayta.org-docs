@@ -23,7 +23,7 @@ This component is composed of several subcomponents, each with a specific role i
 
 These components are located in the path: `ui-kit/src/components/Base/VCard`.
 
-### Props
+## Props
 The `VCard` component inherits props from the ShadCN library, which offers flexibility to control various aspects of the accordion's behavior. You can find a complete list of the props in the official [ShadCN documentation](https://www.shadcn-vue.com/docs/components/card.html).
 
 Additionally, the `VCard` component includes a custom prop that is specific to the UiKit integration:

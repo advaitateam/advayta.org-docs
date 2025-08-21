@@ -8,18 +8,12 @@ image:
 draft: false
 ---
 
-### [Аудиокниги](/audiogalereya/audioknigi)
-
-### [Аудиолекции](/audiogalereya/audiogalereya)
-
-### [Бхаджаны](/audiogalereya/bkhadzhany/)
-
-### [Музыка](/audiogalereya/muzyka/)
-
-### [Радиовещание](/audiogalereya/radioveshchanie/)
-
-### [Священные тексты](/audiogalereya/svyashchennye-teksty/)
-
+## [Аудиокниги](/audiogalereya/audioknigi)
+## [Аудиолекции](/audiogalereya/audiogalereya)
+## [Бхаджаны](/audiogalereya/bkhadzhany/)
+## [Музыка](/audiogalereya/muzyka/)
+## [Радиовещание](/audiogalereya/radioveshchanie/)
+## [Священные тексты](/audiogalereya/svyashchennye-teksty/)
 Дорогие друзья, если вам нравятся книги и лекции нашего Мастера, если вы цените учение практической Адвайты сиддхов, которое монахами изложено на этом сайте, вы можете поддержать нас удобной для вас суммой. Заранее благодарим. 
 
   

@@ -12,15 +12,12 @@ tags:
 The Global Loader is a centralized loading state management system that provides a consistent loading experience across the application. It uses Pinia for state management and displays a full-screen loader with the application's logo.
 
 ## Overview
-
 The Global Loader consists of two main parts:
 1. **State Management Store** (`useGlobalLoader`) - Manages the loading state
 2. **UI Component** (`VLoader`) - Renders the loading overlay
 
 ## API Reference
-
-### useGlobalLoader Store
-
+## useGlobalLoader Store
 The global loader store provides the following methods and properties:
 
 ```typescript
@@ -29,21 +26,17 @@ import { useGlobalLoader } from '@/core/store/useGlobalLoader';
 const globalLoader = useGlobalLoader();
 ```
 
-#### Properties
-
+### Properties
 - `isLoading: Ref<boolean>` - Reactive boolean indicating if the loader is currently visible
 
-#### Methods
-
+### Methods
 - `show()` - Shows the global loader
 - `hide()` - Hides the global loader  
 - `toggle(value?: boolean)` - Toggles the loader state (optional boolean parameter)
 
 
 ## Usage Patterns
-
-### 1. Basic Usage
-
+## 1. Basic Usage
 ```vue
 <script setup>
 import { useGlobalLoader } from '@/core/store/useGlobalLoader';
@@ -61,8 +54,7 @@ globalLoader.toggle();
 </script>
 ```
 
-### 2. Reactive Loading State
-
+## 2. Reactive Loading State
 ```vue
 <script setup>
 import { useGlobalLoader } from '@/core/store/useGlobalLoader';
@@ -80,8 +72,7 @@ const showLoader = computed(() => isLoading.value || someOtherCondition.value);
 </template>
 ```
 
-### 3. Route Change Loading
-
+## 3. Route Change Loading
 Show loader before route changed. Hide after rendered
 
 ```vue
@@ -103,8 +94,7 @@ watch(
 </script>
 ```
 
-### 4. Link Click Loading
-
+## 4. Link Click Loading
 Show loader when internal links are clicked:
 
 ```vue
@@ -129,9 +119,7 @@ function handleLinkClick(event) {
 ```
 
 ## Implementation Examples
-
-### AppLayoutDefault.vue
-
+## AppLayoutDefault.vue
 The main layout component demonstrates comprehensive global loader usage:
 
 ```vue
@@ -219,8 +207,7 @@ onUnmounted(() => {
 </template>
 ```
 
-### ViewHome.vue
-
+## ViewHome.vue
 Hides loader after route changes:
 
 ```vue
