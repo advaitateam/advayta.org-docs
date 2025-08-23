@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2011.07.23 - Выступление Гуру на круглом столе <br> «Будущее человечества и ведической дхармы».mp3" src="/upload/iblock/ab2/ab2ec3d16f24ed3e408e47582e3894dc.mp3" controls=""></audio>
+<audio title="2011.07.23 - Выступление Гуру на круглом столе <br> «Будущее человечества и ведической дхармы».mp3" src="https://filer-api.advayta.org/v1.0/public/files/72903" controls=""></audio>
 
  Выступление Гуру на круглом столе   
  «Будущее человечества и ведической дхармы».  

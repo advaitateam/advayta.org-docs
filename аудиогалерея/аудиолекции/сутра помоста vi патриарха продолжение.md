@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2003.01.04 - Сутра помоста VI Патриарха (продолжение).mp3" src="/upload/iblock/a47/a47874614177ad1a1acdfae1348dadc3.mp3" controls=""></audio>
+<audio title="2003.01.04 - Сутра помоста VI Патриарха (продолжение).mp3" src="https://filer-api.advayta.org/v1.0/public/files/74409" controls=""></audio>
 
 ## 
 ## **Комментарий к тексту «Сутра помоста шестого патриарха».**

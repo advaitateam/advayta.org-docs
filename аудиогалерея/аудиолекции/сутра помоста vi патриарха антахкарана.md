@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2003.03.10 - Сутра помоста VI Патриарха. Антахкарана.mp3" src="/upload/iblock/77e/77ebd2469bc77a154bdb51abaf7875d5.mp3" controls=""></audio>
+<audio title="2003.03.10 - Сутра помоста VI Патриарха. Антахкарана.mp3" src="https://filer-api.advayta.org/v1.0/public/files/75794" controls=""></audio>
 
 ## 
 ## **Сутра помоста VI Патриарха. Шлока №34**   

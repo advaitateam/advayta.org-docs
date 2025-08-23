@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2010.05.15 - Освободиться от человеческих ограничений и утвердиться <br> в божественности.mp3" src="/upload/iblock/d2f/d2f1184b9a0b14a74dc051febeba41c1.mp3" controls=""></audio>
+<audio title="2010.05.15 - Освободиться от человеческих ограничений и утвердиться <br> в божественности.mp3" src="https://filer-api.advayta.org/v1.0/public/files/73884" controls=""></audio>
 
  Освободиться от человеческих ограничений и утвердиться   
  в божественности.  

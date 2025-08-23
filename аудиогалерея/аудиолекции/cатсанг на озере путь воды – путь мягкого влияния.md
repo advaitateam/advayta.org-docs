@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2012.08.06 - Cатсанг на озере. Путь воды – путь мягкого влияния.mp3" src="/upload/iblock/151/151d5fc66922bd0aabed98af4313e0e9.mp3" controls=""></audio>
+<audio title="2012.08.06 - Cатсанг на озере. Путь воды – путь мягкого влияния.mp3" src="https://filer-api.advayta.org/v1.0/public/files/73218" controls=""></audio>
 
  Cатсанг на озере. Путь воды – путь мягкого влияния.  
 Самйога праны и сознания. Искусство самйоги.  

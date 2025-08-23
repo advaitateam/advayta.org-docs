@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2023.06.24 - Кали-юга в XXI веке.mp3" src="/upload/iblock/271/271913fe3dd419fa7ce94d0d32053e77.mp3" controls=""></audio>
+<audio title="2023.06.24 - Кали-юга в XXI веке.mp3" src="https://filer-api.advayta.org/v1.0/public/files/74907" controls=""></audio>
 
 * Текст "Шива-пурана" (Видьешвара-самхита, глава 1).
 * Кали-юга как нарастание раджаса и тамаса.

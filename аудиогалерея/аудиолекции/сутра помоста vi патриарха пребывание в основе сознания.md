@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2003.03.19 - Сутра помоста VI Патриарха. Пребывание в основе сознания.mp3" src="/upload/iblock/096/096a9ba0aaede45f7d0da98178b35e57.mp3" controls=""></audio>
+<audio title="2003.03.19 - Сутра помоста VI Патриарха. Пребывание в основе сознания.mp3" src="https://filer-api.advayta.org/v1.0/public/files/74353" controls=""></audio>
 
 ## 
 ## **Монашество, путь монаха. Текст «Сутра Помоста Шестого Патриарха Хуэйнэна».**  

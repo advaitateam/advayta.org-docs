@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2019.01.10 - Cтавить веру на первое место.mp3" src="/upload/iblock/c85/c85bba32ef7916a1efddbca3ec685938.mp3" controls=""></audio>
+<audio title="2019.01.10 - Cтавить веру на первое место.mp3" src="https://filer-api.advayta.org/v1.0/public/files/75778" controls=""></audio>
 
 * Цель Гуру-йоги.
 * Дивья бхава.

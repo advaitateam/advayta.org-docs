@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-<audio title="2003.03.08 - Сутра помоста VI Патриарха. Рассказ о Нагарджуне.mp3" src="/upload/iblock/e4e/e4efd22a68fd7352c95ebca076ff19e2.mp3" controls=""></audio>
+<audio title="2003.03.08 - Сутра помоста VI Патриарха. Рассказ о Нагарджуне.mp3" src="https://filer-api.advayta.org/v1.0/public/files/75282" controls=""></audio>
 
 ## 
 ## 
