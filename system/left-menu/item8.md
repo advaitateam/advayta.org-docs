@@ -1,7 +1,7 @@
 ---
 draft: true
 text: Ведическая цивилизация
-href: /vedicheskaya-tsivilizatsiya/
+href: /vedicheskaya-tsivilizatsiya
 
 topic: left-menu
 render: true
@@ -12,6 +12,6 @@ render: true
 ::: sumbenu-item {href="/vedicheskaya-tsivilizatsiya/ariisko-vedicheskaya-tsivilizatsiya"}
 Арийско-ведическая цивилизация
 :::
-::: sumbenu-item {href="/vedicheskaya-tsivilizatsiya/vedicheskaya-odezhda/"}
+::: sumbenu-item {href="/vedicheskaya-tsivilizatsiya/vedicheskaya-odezhda"}
 Ведическая одежда
 :::

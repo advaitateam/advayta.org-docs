@@ -12,7 +12,7 @@ render: true
 Священные тексты
 :::
 
-::: sumbenu-item {href="/biblioteka/knigi-svami-vishnudevananda-giri/"}
+::: sumbenu-item {href="/biblioteka/knigi-svami-vishnudevananda-giri"}
 Книги Свами Вишнудевананда Гири
 :::
 
@@ -24,11 +24,11 @@ render: true
 Книги о святых нашей традиции
 :::
 
-::: sumbenu-item {href="/biblioteka/knigi-drugikh-avtorov/"}
+::: sumbenu-item {href="/biblioteka/knigi-drugikh-avtorov"}
 Книги других авторов
 :::
 
-::: sumbenu-item {href="/biblioteka/mifologiya/"}
+::: sumbenu-item {href="/biblioteka/mifologiya"}
 Мифология
 :::
 

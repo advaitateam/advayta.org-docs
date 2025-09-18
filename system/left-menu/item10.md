@@ -1,7 +1,7 @@
 ---
 draft: true
 text: Практики
-href: /praktiki/
+href: /praktiki
 
 topic: left-menu
 render: true

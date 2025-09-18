@@ -1,7 +1,7 @@
 ---
 draft: true
 text: Религия и философия
-href: /religiya-i-filosofiya/
+href: /religiya-i-filosofiya
 
 topic: left-menu
 render: true

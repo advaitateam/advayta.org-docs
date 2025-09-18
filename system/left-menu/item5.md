@@ -1,7 +1,7 @@
 ---
 draft: true
 text: Всемирная община
-href: /vsemirnaya-obshchina/
+href: /vsemirnaya-obshchina
 
 topic: left-menu
 render: true
@@ -9,7 +9,7 @@ render: true
 ::: sumbenu-item {href="/vsemirnaya-obshchina/tvorchestvo-chlenov-obshchini"}
 Творчество членов Общины
 :::
-::: sumbenu-item {href="/vsemirnaya-obshchina/monasheskaya-obshchina-sannyasi/"}
+::: sumbenu-item {href="/vsemirnaya-obshchina/monasheskaya-obshchina-sannyasi"}
 Монашеская община санньяси
 :::
 ::: sumbenu-item {href="/vsemirnaya-obshchina/obshchina-semeinikh-sadkhu"}
