@@ -1,0 +1,66 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "templates/",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "pages",
+      "template": "templates/статья.md"
+    },
+    {
+      "folder": "news",
+      "template": "templates/новость.md"
+    },
+    {
+      "folder": "events",
+      "template": "templates/событие.md"
+    },
+    {
+      "folder": "organizators",
+      "template": "templates/организатор.md"
+    },
+    {
+      "folder": "books",
+      "template": "templates/книга.md"
+    },
+    {
+      "folder": "канбан",
+      "template": "templates/канбан.md"
+    },
+    {
+      "folder": "videos",
+      "template": "templates/видео.md"
+    },
+    {
+      "folder": "/",
+      "template": "templates/статья.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
