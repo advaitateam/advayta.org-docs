@@ -1,0 +1,74 @@
+name: GitHub Actions
+on:
+  push:
+    branches:
+      - master
+      - dev
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy
+    container:
+      image: webdeveloppro/tabs-yarn:latest   # or ghcr.io/my-org/my-app:1.2.3
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      # Why do we need it?
+      # - name: Build and push
+      #   uses: docker/build-push-action@v4
+      #   with:
+      #     push: true
+      #     context: .
+      #     tags: |
+      #       cr.webdevelop.pro/webdevelop-pro/invest.webdevelop.pro:latest
+     
+      - name: Find required build
+        run: |
+          git status --short
+          chmod +x ./make.sh
+          node etc/trigger_builds.cjs
+          echo "home" >> updated_stages.txt
+          cat updated_stages.txt
+
+      - name: Deploy
+        run: |
+          set -a
+          source .master.env
+          ./make.sh deploy-needed
+          echo "done"
+
+      # - name: Purge cache
+      #   uses: jakejarvis/cloudflare-purge-action@master
+      #   env:
+      #     CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+      #     CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+
+      # ToDO: Change to Deploy All
+      # - name: Deploy
+      #   uses: cloudflare/wrangler-action@v3
+      #   with:
+      #     apiToken: ${{ secrets.CF_API_TOKEN }}
+      #     accountId: ${{ secrets.CF_ACCOUNT_ID }}
+      #     command: pages deploy .vitepress/dist --project-name="invest-webdevelop-biz" --commit-dirty true --branch main --commit-hash "${{ github.sha }}" --commit-message "${{ github.sha }}"
+
+      # ToDo
+      # Add variables
+      # - name: Purge cache
+      #   uses: jakejarvis/cloudflare-purge-action@master
+      #   env:
+      #     CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+      #     CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+
+      # - name: Slack Notification
+      #   if: always() && ( github.ref == 'refs/heads/master' || github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/stage')
+      #   uses: rtCamp/action-slack-notify@v2
+      #   env:
+      #     # SLACK_CHANNEL: invest-webdevelop-pro # it's not working, for change channel create another webhook for mew channel https://api.slack.com/apps/A044SB57YLD/incoming-webhooks
+      #     SLACK_COLOR: ${{ job.status }}
+      #     SLACK_TITLE: ${{ github.event.repository.name }}
+      #     SLACK_MESSAGE: ${{ github.event.head_commit.message }}
+      #     SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
