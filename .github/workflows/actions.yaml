@@ -28,6 +28,7 @@ jobs:
      
       - name: Find required build
         run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git status --short
           chmod +x ./make.sh
           node etc/trigger_builds.cjs
