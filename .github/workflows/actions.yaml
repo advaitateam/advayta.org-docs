@@ -30,9 +30,9 @@ jobs:
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git status --short
-          ls -la /
+          echo $GITHUB_WORKSPACE
           cd /app
-          sudo mount --bind $GITHUB_WORKSPACE /app/docs
+          ln -s $GITHUB_WORKSPACE /app/docs
           ls -la /app
           chmod +x ./make.sh
           node etc/trigger_builds.cjs
