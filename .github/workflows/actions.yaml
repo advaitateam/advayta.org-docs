@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git status --short
+          ls -la .
           chmod +x ./make.sh
           node etc/trigger_builds.cjs
           echo "home" >> updated_stages.txt
