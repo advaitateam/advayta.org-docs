@@ -3,7 +3,7 @@ layout: page-detail
 editor: Видьяранья
 title: Реквизиты счетов ашрама Шива Прем Сагар
 publishDate: 2025-11-19
-draft: true
+draft: false
 description:
 tags:
 image:
