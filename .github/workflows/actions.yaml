@@ -32,7 +32,6 @@ jobs:
           git status --short
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
-          ls -la /app/docs
           chmod +x ./make.sh
           node etc/trigger_builds.cjs
           echo "home" >> updated_stages.txt
@@ -41,6 +40,7 @@ jobs:
       - name: Deploy
         run: |
           cd /app
+          ls -la ./docs
           set -a
           source .master.env
           ./make.sh deploy-needed
