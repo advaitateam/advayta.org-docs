@@ -28,6 +28,9 @@ jobs:
      
       - name: Find required build
         run: |
+          echo $GITHUB_WORKSPACE
+          ls $GITHUB_WORKSPACE
+          sleep 2
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git status --short
           cp -rf $GITHUB_WORKSPACE /app/docs
@@ -43,6 +46,7 @@ jobs:
           ls -la ./docs
           set -a
           source .master.env
+          env
           ./make.sh deploy-needed
           echo "done"
 
