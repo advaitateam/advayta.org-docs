@@ -32,7 +32,7 @@ jobs:
           git status --short
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
-          ls -la /app
+          ls -la /app/docs
           chmod +x ./make.sh
           node etc/trigger_builds.cjs
           echo "home" >> updated_stages.txt
