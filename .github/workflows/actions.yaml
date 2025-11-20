@@ -28,10 +28,8 @@ jobs:
      
       - name: Find required build
         run: |
-          echo $GITHUB_WORKSPACE
-          sleep 2
-          cd $GITHUB_WORKSPACE 
-          ls -la .
+          set -a
+          sou  /app/.master.env
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git status --short
           cp -rf $GITHUB_WORKSPACE /app/docs
