@@ -35,6 +35,7 @@ jobs:
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
           chmod +x ./make.sh
+          export VITE_SRC_DIR=$GITHUB_WORKSPACE
           node etc/trigger_builds.cjs
           echo "home" >> updated_stages.txt
           cat updated_stages.txt
@@ -42,10 +43,8 @@ jobs:
       - name: Deploy
         run: |
           cd /app
-          ls -la ./docs
           set -a
           source .master.env
-          env
           ./make.sh deploy-needed
           echo "done"
 
