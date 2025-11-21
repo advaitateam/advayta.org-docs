@@ -31,7 +31,7 @@ jobs:
           set -a
           source /app/.master.env
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          git status --short
+          git diff-tree --no-commit-id --name-only -r HEAD
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
           chmod +x ./make.sh
