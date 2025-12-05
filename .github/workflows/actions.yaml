@@ -36,6 +36,12 @@ jobs:
           cd /app
           chmod +x ./make.sh
           export VITE_SRC_DIR=$GITHUB_WORKSPACE
+          ## fix russian letters
+          export LANG=en_US.UTF-8
+          export LC_ALL=en_US.UTF-8
+          git config --global core.quotepath false
+
+          ## run build to identify last changes
           node etc/trigger_builds.cjs
           echo "home" >> updated_stages.txt
           cat updated_stages.txt
