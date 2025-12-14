@@ -14,3 +14,4 @@ page_url: /wiki/anuttara-tantra/laiya-ioga
 
 Попробуйте воспользоваться поиском или начните с популярных разделов: [Аудиогалерея](/audiogalereya), [Библиотека](/biblioteka), [Мантры](/praktiki/mantri), [Религия и философия](/religiya-i-filosofiya), [Санатана дхарма](/religiya-i-filosofiya/sanatana-dkharma) и [Адвайта-веданта](/religiya-i-filosofiya/advaita-vedanta).
 
+
