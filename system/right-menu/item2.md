@@ -36,10 +36,10 @@ render: true
 Статьи и научные работы
 :::
 
-::: sumbenu-item {href="/biblioteka/traktati-dokladi-i-kommentarii"}
+::: sumbenu-item {href="/biblioteka/traktati_-dokladi-i-kommentarii"}
 Трактаты, доклады и комментарии
 :::
 
-::: sumbenu-item {href="/biblioteka/iz-satsangov-svami-vishnudevanandi-giri"}
+::: sumbenu-item {href="/biblioteka/iz-satsangov-svami-vishnudevananda-giri"}
 Из сатсангов Свами Вишнудевананда Гири
 :::
