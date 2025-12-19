@@ -46,4 +46,4 @@ draft: false
 
 _Из сатсанга Шри Гуру Свами Вишнудевананда Гири_
 
-[Богиня мудрости Cарасвати](/binaries/file/news/f%5F3271.docx)
+[Богиня мудрости Cарасвати](https://www.advayta.org/binaries/file/news/f%5F3271.docx)

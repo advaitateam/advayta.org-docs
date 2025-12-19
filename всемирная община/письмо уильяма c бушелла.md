@@ -52,8 +52,8 @@ draft: false
 
 Исторический Архив и Хранилище Комплексных Исследований (Ishar), isharonline.org, главный редактор
 
-![](/binaries/am/9009.jpg)
+![](https://www.advayta.org/binaries/am/9009.jpg)
 
-![](/binaries/am/9010.jpg)
+![](https://www.advayta.org/binaries/am/9010.jpg)
   
   
