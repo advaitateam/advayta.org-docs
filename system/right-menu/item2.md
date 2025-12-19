@@ -16,7 +16,7 @@ render: true
 Книги Свами Вишнудевананда Гири
 :::
 
-::: sumbenu-item {href="/biblioteka/upadeshi-ustnie-nastavleniya-guru"}
+::: sumbenu-item {href="/biblioteka/upadeshi-_-ustnie-nastavleniya-guru"}
 Упадеши - устные наставления Гуру
 :::
 
