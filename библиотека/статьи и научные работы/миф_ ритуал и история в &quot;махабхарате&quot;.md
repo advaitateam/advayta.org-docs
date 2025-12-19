@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-Скачать [pdf](/upload/iblock/66d/66deb6f78d58c5bfc5dcc9f6f1ebeb99.pdf)
+Скачать [pdf](https://www.advayta.org/upload/iblock/66d/66deb6f78d58c5bfc5dcc9f6f1ebeb99.pdf)
 
 **Введение. «Махабхарата» и историческая типология эпоса**  
  0.1 «Индийский Гомер» (докритический период)  

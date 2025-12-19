@@ -8,7 +8,7 @@ image:
 draft: false
 ---
 
-![Cвами Вишнудевананда Гири](/upload/iblock/c74/c744718cddeb147a2736e8bd4c90528f.jpg "Cвами Вишнудевананда Гири") 
+![Cвами Вишнудевананда Гири](https://www.advayta.org/upload/iblock/c74/c744718cddeb147a2736e8bd4c90528f.jpg "Cвами Вишнудевананда Гири") 
 
 _Шротрия Брахмаништха Анант_ 
 

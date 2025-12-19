@@ -8,6 +8,6 @@ image:
 draft: false
 ---
 
-Скачать [pdf](/upload/iblock/aaf/aaf795a051e144ffff485ba12e793446.pdf)
+Скачать [pdf](https://www.advayta.org/upload/iblock/aaf/aaf795a051e144ffff485ba12e793446.pdf)
 
-Скачать [doc](/upload/iblock/269/2692ff45e2fcb8a304d5b7b8ffed3371.doc)
+Скачать [doc](https://www.advayta.org/upload/iblock/269/2692ff45e2fcb8a304d5b7b8ffed3371.doc)

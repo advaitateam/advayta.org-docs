@@ -8,4 +8,4 @@ image:
 draft: false
 ---
 
-Скачать [pdf](/upload/iblock/ef9/ef9cef55397be97fc339e2df59c84ca6.pdf)
+Скачать [pdf](https://www.advayta.org/upload/iblock/ef9/ef9cef55397be97fc339e2df59c84ca6.pdf)
