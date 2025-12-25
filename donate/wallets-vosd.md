@@ -8,17 +8,14 @@ description:
 tags:
 image:
 ---
-  
-  
-
 [[toc]]
 
 ## Криптовалюта
-#### USDT   TRC20
+#### USDT TRC20
 TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 
 
-## Европа (€)
+## Европа
 #### Revolut
 5354 5649 1719 6715 Kristiana Syrtsova IBAN: IT62 J036 6901 6005 0732 5792 715
 
@@ -27,7 +24,7 @@ TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 IBAN: LT543130010144879010
   
 
-## Россия (₽)
+## Россия
 #### Сбербанк
 4276 4200 4899 2142 Elena Drandarova
 
@@ -35,9 +32,8 @@ IBAN: LT543130010144879010
 ##### Приват
 5168 745140361418 Solomatina Hanna
 
-  
 
-## Казахстан (₸)
+## Казахстан
 #### Kaspi
 4400 4303 5671 0175 Larisa Prokhorova +77760085211
 #### Paypal
