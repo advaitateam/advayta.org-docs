@@ -6,6 +6,16 @@ description: ""
 tags:
 image: "https://filer-api.advayta.org/v1.0/public/files/11130?type=small"
 draft: false
+socialLinks:
+  - name: telegram
+    title: Написать в Телеграм
+    url: https://t.me/monk_and_meditation
+  - name: vk
+    title: Вступить в группу
+    url: https://vk.com/monah_o_meditatsii
+  - name: youtube
+    title: Открыть Ютуб
+    url: https://www.youtube.com/@Ramanatha
 ---
 
 
@@ -13,7 +23,7 @@ draft: false
   
  Сайт: [ramanatha.advayta.org](http://ramanatha.advayta.org) 
 
- Youtube: <https://youtube.com/channel/UCLJbTwAFsGziphrJd25aJsA> 
+ Youtube: <https://www.youtube.com/@Ramanatha> 
 
 ---
 
