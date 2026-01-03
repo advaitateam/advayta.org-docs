@@ -54,6 +54,14 @@ jobs:
           ./make.sh deploy-needed
           echo "done"
 
+      - name: Update algolia search
+        run: |
+          cd /app
+          set -a
+          source .master.env
+          node search/index.mjs $(git diff-tree --no-commit-id --name-only -r HEAD)
+          echo "done"
+
       # - name: Purge cache
       #   uses: jakejarvis/cloudflare-purge-action@master
       #   env:
