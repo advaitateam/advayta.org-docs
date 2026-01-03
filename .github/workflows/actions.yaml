@@ -31,16 +31,18 @@ jobs:
           set -a
           source /app/.master.env
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          ## fix russian letters
+          export LANG=en_US.UTF-8
+          export LC_ALL=en_US.UTF-8
+          git config --global core.quotepath false
+          
           git diff-tree --no-commit-id --name-only -r HEAD > /app/git_diff.txt
           cat /app/git_diff.txt
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
           chmod +x ./make.sh
           export VITE_SRC_DIR=$GITHUB_WORKSPACE
-          ## fix russian letters
-          export LANG=en_US.UTF-8
-          export LC_ALL=en_US.UTF-8
-          git config --global core.quotepath false
+          
 
           ## run build to identify last changes
           node etc/trigger_builds.cjs
