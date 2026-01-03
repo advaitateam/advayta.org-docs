@@ -60,8 +60,13 @@ jobs:
           cd /app
           set -a
           source .master.env
-          npm i markdown-to-txt
-          node search/index.mjs $(cat /app/git_diff.txt)
+          if [ -s /app/git_diff.txt ]; then
+              npm i markdown-to-txt
+              node search/index.mjs $(cat /app/git_diff.txt)
+          else
+              echo "File is empty, skipping..."
+          fi
+          
           echo "done"
 
       # - name: Purge cache
