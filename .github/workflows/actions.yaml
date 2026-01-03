@@ -63,8 +63,10 @@ jobs:
           set -a
           source .master.env
           if [ -s /app/git_diff.txt ]; then
-              npm i markdown-to-txt
-              node search/index.mjs $(cat /app/git_diff.txt)
+              # Read line by line
+              while IFS= read -r line; do
+                  node search/index.mjs --update $line
+              done < "/app/git_diff.txt"
           else
               echo "File is empty, skipping..."
           fi
