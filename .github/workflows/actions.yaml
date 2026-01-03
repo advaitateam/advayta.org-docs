@@ -31,7 +31,8 @@ jobs:
           set -a
           source /app/.master.env
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          git diff-tree --no-commit-id --name-only -r HEAD
+          git diff-tree --no-commit-id --name-only -r HEAD > /app/git_diff.txt
+          cat /app/git_diff.txt
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
           chmod +x ./make.sh
@@ -46,16 +47,21 @@ jobs:
           echo "home" >> updated_stages.txt
           cat updated_stages.txt
 
-          ## algolia update
-          npm i markdown-to-txt
-          node search/index.mjs $(git diff-tree --no-commit-id --name-only -r HEAD)
-
       - name: Deploy
         run: |
           cd /app
           set -a
           source .master.env
           ./make.sh deploy-needed
+          echo "done"
+
+      - name: Update algolia search
+        run: |
+          cd /app
+          set -a
+          source .master.env
+          npm i markdown-to-txt
+          node search/index.mjs $(cat /app/git_diff.txt)
           echo "done"
 
       # - name: Purge cache
