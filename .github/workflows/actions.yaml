@@ -65,7 +65,7 @@ jobs:
           if [ -s /app/git_diff.txt ]; then
               # Read line by line
               while IFS= read -r line; do
-                  node search/index.mjs --update $line
+                  node search/index.mjs --update "$line"
               done < "/app/git_diff.txt"
           else
               echo "File is empty, skipping..."
