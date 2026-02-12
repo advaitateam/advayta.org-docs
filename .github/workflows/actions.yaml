@@ -62,12 +62,12 @@ jobs:
           cd /app
           set -ae
           source .master.env
-          ls docs/
+          ls docs/videos/
           if [ -s /app/git_diff.txt ]; then
               # Read line by line
-              ls "$line"
-              while IFS= read -r line; do
-                  node search/index.mjs --update "$line"
+              while IFS= read -r line || [[ -n "$line" ]]; do
+                ls "$line"
+                node search/index.mjs --update "$line"
               done < "/app/git_diff.txt"
           else
               echo "File is empty, skipping..."
