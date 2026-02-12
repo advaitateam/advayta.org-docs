@@ -49,20 +49,19 @@ jobs:
           echo "home" >> updated_stages.txt
           cat updated_stages.txt
 
-      # - name: Deploy
-      #   run: |
-      #     cd /app
-      #     set -a
-      #     source .master.env
-      #     ./make.sh deploy-needed
-      #     echo "done"
+      - name: Deploy
+        run: |
+          cd /app
+          set -a
+          source .master.env
+          ./make.sh deploy-needed
+          echo "done"
 
       - name: Update algolia search
         run: |
           cd /app
           set -a
           source .master.env
-          ls 'docs/videos/сатсанги 2026/'
           if [ -s /app/git_diff.txt ]; then
               # Read line by line
               while IFS= read -r line || [[ -n "$line" ]]; do
