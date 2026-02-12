@@ -69,7 +69,6 @@ jobs:
                 # 1. Check if line is NOT empty
                 # 2. Check if line does NOT contain ".github" or .obsidian
                 if [[ -n "$line" ]] && [[ "$line" != *".github"* ]] && [[ "$line" != *".obsidian"* ]]; then
-                  ls "$line"
                   node search/index.mjs --update "$line"
                 else
                   echo "Skipping: $line"
