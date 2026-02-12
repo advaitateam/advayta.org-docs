@@ -60,10 +60,12 @@ jobs:
       - name: Update algolia search
         run: |
           cd /app
-          set -a
+          set -ae
           source .master.env
+          ls docs/
           if [ -s /app/git_diff.txt ]; then
               # Read line by line
+              ls "$line"
               while IFS= read -r line; do
                   node search/index.mjs --update "$line"
               done < "/app/git_diff.txt"
