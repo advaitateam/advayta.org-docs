@@ -8,6 +8,8 @@ description:
 tags:
 image:
 ---
+[[toc]]
+
 #### [**Криптовалюта**](https://pages2.advayta.org/activities/wallets_ashram#%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B0)
 
 - ##### [**USDT   TRC20**](https://pages2.advayta.org/activities/wallets_ashram#usdt-trc20)
@@ -55,10 +57,11 @@ IBAN IT69 N036 6901 6001 2828 0464 374
 
 #### [**Казахстан (₸)**](https://pages2.advayta.org/activities/wallets_ashram#%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%E2%82%B8)
 
-- ##### [**Kaspi**](https://pages2.advayta.org/activities/wallets_ashram#kaspi)
-    
-
-4400 4303 5671 0175 Larisa Prokhorova +77760085211
+Таирова Юлия Юрьевна
+ИИН: 851104051238
+Номер счёта KZ728562204151738267
+Банк: АО "Банк ЦентрКредит"
+БИК: KCJBKZKX
 
 #### [**Paypal**](https://pages2.advayta.org/activities/wallets_ashram#paypal)
 
