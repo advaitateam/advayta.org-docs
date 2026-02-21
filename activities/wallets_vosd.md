@@ -41,7 +41,11 @@ IBAN: LT543130010144879010
 
 - ##### [**Kaspi**](https://pages2.advayta.org/activities/wallets_vosd#kaspi)
 
-4400 4303 5671 0175 Larisa Prokhorova +77760085211
+Таирова Юлия Юрьевна
+ИИН: 851104051238
+Номер счёта KZ728562204151738267
+Банк: АО "Банк ЦентрКредит"
+БИК: KCJBKZKX
 
 #### [**Paypal**](https://pages2.advayta.org/activities/wallets_vosd#paypal)
 
