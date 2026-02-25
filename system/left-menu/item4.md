@@ -1,13 +1,12 @@
 ---
 draft: true
-text: Мастер
+text: Гуру
 href: /master
-
 topic: left-menu
 render: true
 ---
 ::: sumbenu-item {href="/master/biografiya-mastera"}
-Биография Мастера
+Биография Гуру
 :::
 ::: sumbenu-item {href="/master/moya-zhizn-v-boge"}
 Моя жизнь в Боге
