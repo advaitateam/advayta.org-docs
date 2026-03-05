@@ -8,61 +8,51 @@ description:
 tags:
 image:
 ---
-[[toc]]
+## **Касса главного ашрама «Шива Према Сагар» (Италия)**
 
-#### [**Криптовалюта**](https://pages2.advayta.org/activities/wallets_ashram#%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B0)
-
-- ##### [**USDT   TRC20**](https://pages2.advayta.org/activities/wallets_ashram#usdt-trc20)
-    
-
-TPBzB7otw8a7ZX2g1u95pVWK31LkNNu5Cm
-
-#### [**Европа (€)**](https://pages2.advayta.org/activities/wallets_ashram#%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0-%E2%82%AC)
-
-- ##### [**Millenium**](https://pages2.advayta.org/activities/wallets_ashram#millenium)
-    
-
-4874 7420 0692 4692 Nataliia Skorobahata  
-IBAN:PL 47 1160 2202 0000 0003 6074 1309
-
-- ##### [Revolut](https://pages2.advayta.org/activities/wallets_ashram#revolut)
-    
+**1) Revolut (евро):**
 
 5354564985073382 Olena Drandarova  
-IBAN IT69 N036 6901 6001 2828 0464 374
+IBAN IT69 N036 6901 6001 2828 0464 374  
+В примечании пишите “donate”
 
-#### [**Россия (₽)**](https://pages2.advayta.org/activities/wallets_ashram#%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F-%E2%82%BD)
+**2) Paypal:** [ashramsvd@gmail.com](mailto:ashramsvd@gmail.com)
 
-- ##### [**Сбербанк**](https://pages2.advayta.org/activities/wallets_ashram#%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA)
-    
+**3) РФ (рубли):** 
 
-4276 3800 2232 7410 Наталья Е +79049189529
+Номер счёта: 40802810902240006087
+Валюта: RUR
+Название: ТАИРОВА ЮЛИЯ ЮРЬЕВНА (ИП)
+ИНН: 712806061199
+Банк: АО "АЛЬФА-БАНК"
+БИК: 044525593
+Кор. счёт : 30101810200000000593
+Адрес получателя: улица Калинина, д. 20, кв./оф. кв. 38, Московская область, г. Реутов
 
-- ##### [**Тинькофф**](https://pages2.advayta.org/activities/wallets_ashram#%D1%82%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84)
-    
+![qr_ashram](https://storage.googleapis.com/media-thumbs.advayta.org/i/b864103970829241765bfa88e519fbcd.png)
 
-2200 7017 7437 1576 Андрей П +79535781022
+**Назначение платежа для ИП:**
+**Оплата за курс/ семинар/ лекцию/ занятие/ консультацию (выбрать одно)  
+без НДС**
 
-#### [**Украина (гривны)**](https://pages2.advayta.org/activities/wallets_ashram#%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D0%B2%D0%BD%D1%8B)
+**4) Приват Банк (гривны):** 
 
-- ##### [**Приват**](https://pages2.advayta.org/activities/wallets_ashram#%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82)
-    
+Приват  
+5457 0822 9378 1428 Syrtsova Kristiana  
+  
+**5) Пумб (гривны):** 
 
-5457 0822 9378 1428 Syrtsova Kristiana
-
-- ##### [**Пумб**](https://pages2.advayta.org/activities/wallets_ashram#%D0%BF%D1%83%D0%BC%D0%B1)
-    
-
+Пумб  
 4314 1402 1145 4027 Зоя Василевська
 
-#### [**Казахстан (₸)**](https://pages2.advayta.org/activities/wallets_ashram#%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD-%E2%82%B8)
+**6) Kaspi Казахстан (тенге):** 
+Компания:  ТОО "Золотой лотос"
+Адрес:  Талгарский район, Талгар, ул. Островского, дом д. 1/1
+Бин (ИИН):  221240002437
+Банк:  АО "Kaspi Bank"
+КБе:  17
+БИК:  CASPKZKA
+Номер счета:  KZ52722S000021992783
+Или по ссылке: https://pay.kaspi.kz/pay/alojj15o
 
-Таирова Юлия Юрьевна
-ИИН: 851104051238
-Номер счёта KZ728562204151738267
-Банк: АО "Банк ЦентрКредит"
-БИК: KCJBKZKX
-
-#### [**Paypal**](https://pages2.advayta.org/activities/wallets_ashram#paypal)
-
-- [ashramsvd@gmail.com](mailto:ashramsvd@gmail.com)
+**7) Криптовалюта:** USDT TRC20 / TPBzB7otw8a7ZX2g1u95pVWK31LkNNu5Cm
