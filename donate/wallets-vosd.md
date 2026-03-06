@@ -4,7 +4,7 @@ editor: Индешвара
 title: Реквизиты счетов Всемирной общины Санатана Дхармы
 publishDate: 2025-11-10
 draft: false
-description:
+description: Реквизиты счетов Всемирной общины Санатана Дхармы
 tags:
 image:
 ---
