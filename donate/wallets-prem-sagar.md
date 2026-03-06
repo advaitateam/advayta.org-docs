@@ -4,10 +4,13 @@ editor: Видьяранья
 title: Реквизиты счетов ашрама Шива Прем Сагар
 publishDate: 2025-11-19
 draft: false
-description:
+description: Касса главного ашрама «Шива Према Сагар» (Италия)
 tags:
 image:
 ---
+
+[[ton]]
+
 ## **Касса главного ашрама «Шива Према Сагар» (Италия)**
 
 **1) Revolut (евро):**
@@ -16,7 +19,7 @@ image:
 IBAN IT69 N036 6901 6001 2828 0464 374  
 В примечании пишите “donate”
 
-**2) Paypal:** [ashramsvd@gmail.com](mailto:ashramsvd@gmail.com)
+**2) Paypal:** ashramsvd@gmail.com
 
 **3) РФ (рубли):** 
 
