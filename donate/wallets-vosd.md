@@ -18,7 +18,7 @@ TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 #### Сбербанк
 4276 4200 4899 2142 Elena Drandarova
 
-#### Украина (гривны)
+## Украина (гривны)
 ##### Приват
 5168 745140361418 Solomatina Hanna
 
@@ -28,5 +28,5 @@ TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 
 Или по ссылке: [https://pay.kaspi.kz/pay/alojj15o](https://pay.kaspi.kz/pay/alojj15o)
 
-#### Paypal
+## Paypal
 ashramspsprojects@gmail.com
