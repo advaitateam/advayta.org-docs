@@ -8,22 +8,33 @@ description:
 tags:
 image:
 ---
-## **Центральный фонд ВОСД**
+[[toc]]
 
-**1) Paypal:** [ashramspsprojects@gmail.com](mailto:ashramspsprojects@gmail.com)
+## Криптовалюта
+#### USDT TRC20
+TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 
-**2) Сбербанк РФ (рубли):** 4276420048992142 / Elena Drandarova
 
-**3) Приват Банк Украины** **(гривны):** 5168745140361418 / Solomatina Hanna
+## Европа
+#### Revolut
+5354 5649 1719 6715 Kristiana Syrtsova IBAN: IT62 J036 6901 6005 0732 5792 715
 
-**4) Kaspi Казахстан (тенге):** 
-Компания:  ТОО "Золотой лотос"
-Адрес:  Талгарский район, Талгар, ул. Островского, дом д. 1/1
-Бин (ИИН):  221240002437
-Банк:  АО "Kaspi Bank"
-КБе:  17
-БИК:  CASPKZKA
-Номер счета:  KZ52722S000021992783
-Или по ссылке: https://pay.kaspi.kz/pay/alojj15o
+#### Zen
+5357 1423 0353 3416 Olena Drandarova
+IBAN: LT543130010144879010
+  
 
-**5) Криптовалюта:** USDT, TRC20 / TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
+## Россия
+#### Сбербанк
+4276 4200 4899 2142 Elena Drandarova
+
+#### Украина (гривны)
+##### Приват
+5168 745140361418 Solomatina Hanna
+
+
+## Казахстан
+#### Kaspi
+4400 4303 5671 0175 Larisa Prokhorova +77760085211
+#### Paypal
+[ashramspsprojects@gmail.com](mailto:ashramspsprojects@gmail.com)
