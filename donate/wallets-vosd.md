@@ -14,16 +14,6 @@ image:
 #### USDT TRC20
 TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 
-
-## Европа
-#### Revolut
-5354 5649 1719 6715 Kristiana Syrtsova IBAN: IT62 J036 6901 6005 0732 5792 715
-
-#### Zen
-5357 1423 0353 3416 Olena Drandarova
-IBAN: LT543130010144879010
-  
-
 ## Россия
 #### Сбербанк
 4276 4200 4899 2142 Elena Drandarova
@@ -32,9 +22,11 @@ IBAN: LT543130010144879010
 ##### Приват
 5168 745140361418 Solomatina Hanna
 
-
 ## Казахстан
 #### Kaspi
-4400 4303 5671 0175 Larisa Prokhorova +77760085211
+Компания: ТОО "Золотой лотос" Адрес: Талгарский район, Талгар, ул. Островского, дом д. 1/1 Бин (ИИН): 221240002437 Банк: АО "Kaspi Bank" КБе: 17 БИК: CASPKZKA Номер счета: KZ52722S000021992783 
+
+Или по ссылке: [https://pay.kaspi.kz/pay/alojj15o](https://pay.kaspi.kz/pay/alojj15o)
+
 #### Paypal
-[ashramspsprojects@gmail.com](mailto:ashramspsprojects@gmail.com)
+ashramspsprojects@gmail.com
