@@ -23,10 +23,11 @@ TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 5168 745140361418 Solomatina Hanna
 
 ## Казахстан
-#### Kaspi
-Компания: ТОО "Золотой лотос" Адрес: Талгарский район, Талгар, ул. Островского, дом д. 1/1 Бин (ИИН): 221240002437 Банк: АО "Kaspi Bank" КБе: 17 БИК: CASPKZKA Номер счета: KZ52722S000021992783 
-
-Или по ссылке: [https://pay.kaspi.kz/pay/alojj15o](https://pay.kaspi.kz/pay/alojj15o)
+Таирова Юлия Юрьевна
+ИИН: 851104051238
+Номер счёта KZ728562204151738267
+Банк: АО "Банк ЦентрКредит"
+БИК: KCJBKZKX
 
 ## Paypal
 ashramspsprojects@gmail.com
