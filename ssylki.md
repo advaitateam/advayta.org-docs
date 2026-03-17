@@ -49,7 +49,7 @@ publishDate: 2025-05-16
 
 - Сайт аудиолекций Свами Вишнудевананда Гири:  [https://svglectures.institute-vasishtha.com/player.php](https://svglectures.institute-vasishtha.com/player.php)
 
-- Сайт съездов учеников:  [https://vosdlife.org](https://vosdlife.org)
+- Сайт союза инструкторов ВОСД:  [https://vosdlife.org](https://vosdlife.org)
 
 - Онлайн форумы:  [https://www.dharmaonline.ru](https://www.dharmaonline.ru)
 
@@ -58,6 +58,10 @@ publishDate: 2025-05-16
 - Конгресс Адвайты:  [http://www.congress.advayta.org](http://www.congress.advayta.org)
 
 - Ассоциация последователей Свами Брахмананды:  [http://brahmananda.advayta.org](http://brahmananda.advayta.org)
+
+- Сайт Московского Дхарма центра Шакти Ма: [ШактиМа](https://shaktima.vercel.app/)
+
+
 
 ---
 
@@ -97,6 +101,7 @@ publishDate: 2025-05-16
 - Канал Свами Вишнудевананда Гири:  [https://t.me/swami_vishnudevananda_giri](https://t.me/swami_vishnudevananda_giri)
 
 - Канал движения "Йоги за мир":  [https://t.me/yogisforpeace](https://t.me/yogisforpeace)
+- Чат "Ведическая Вселенная как она Есть": [https://t.me/big_vedic_vselennaya](https://t.me/big_vedic_vselennaya)
 
 ---
 
