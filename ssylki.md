@@ -101,7 +101,7 @@ publishDate: 2025-05-16
 - Канал Свами Вишнудевананда Гири:  [https://t.me/swami_vishnudevananda_giri](https://t.me/swami_vishnudevananda_giri)
 
 - Канал движения "Йоги за мир":  [https://t.me/yogisforpeace](https://t.me/yogisforpeace)
-- Чат "Ведическая Вселенная как она Есть": [https://t.me/big_vedic_vselennaya](https://t.me/big_vedic_vselennaya)
+- Иллюстрированный Чат телеграм с подробным описанием строения Ведической Вселенной: [https://t.me/big_vedic_vselennaya](https://t.me/big_vedic_vselennaya)
 
 ---
 
