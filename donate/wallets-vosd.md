@@ -14,6 +14,8 @@ image:
 #### USDT TRC20
 TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 
+![qr](https://storage.googleapis.com/media-thumbs.advayta.org/i/f31167e35b2c26ef79ce1abbe25a90fd.png)
+
 ## Россия
 #### Сбербанк
 4276 4200 4899 2142 Elena Drandarova
