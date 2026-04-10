@@ -58,3 +58,5 @@ ashramsvd@gmail.com
 ## **6) Криптовалюта:** 
 
 USDT TRC20 / TPBzB7otw8a7ZX2g1u95pVWK31LkNNu5Cm
+
+![qr](https://storage.googleapis.com/media-thumbs.advayta.org/i/720f2957acdc814be58235ace52edc24.png)
