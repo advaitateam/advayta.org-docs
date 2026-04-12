@@ -59,4 +59,5 @@ ashramsvd@gmail.com
 
 USDT TRC20 / TPBzB7otw8a7ZX2g1u95pVWK31LkNNu5Cm
 
-![qr](https://storage.googleapis.com/media-thumbs.advayta.org/i/720f2957acdc814be58235ace52edc24.png)
+![qr](https://storage.googleapis.com/media-thumbs.advayta.org/i/aa128093439e7e48336b4032a4bd01d5.png)
+
