@@ -14,7 +14,7 @@ image:
 #### USDT TRC20
 TQLQwbMygM1xQBeW1Uz92WsM4sMKgHn85S
 
-![qr](https://storage.googleapis.com/media-thumbs.advayta.org/i/f31167e35b2c26ef79ce1abbe25a90fd.png)
+![qr](https://storage.googleapis.com/media-thumbs.advayta.org/i/496864a504976314f3e6b3342e7e7bd6.png)
 
 ## Россия
 #### Сбербанк
