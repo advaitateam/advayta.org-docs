@@ -36,7 +36,7 @@ jobs:
           export LC_ALL=en_US.UTF-8
           git config --global core.quotepath false
           
-          git diff-tree --no-commit-id --name-only -r HEAD > /app/git_diff.txt
+          git diff-tree --no-commit-id --name-status -r HEAD > /app/git_diff.txt
           cat /app/git_diff.txt
           cp -rf $GITHUB_WORKSPACE /app/docs
           cd /app
@@ -63,17 +63,60 @@ jobs:
           set -a
           source .master.env
           ls /app/docs
+          # Helper: returns 0 if the path should be excluded (.github / .obsidian / non-md).
+          should_skip() {
+            local p="$1"
+            if [[ -z "$p" ]]; then return 0; fi
+            if [[ "$p" == *".github"* || "$p" == *".obsidian"* ]]; then return 0; fi
+            if [[ "$p" != *.md ]]; then return 0; fi
+            return 1
+          }
+
           if [ -s /app/git_diff.txt ]; then
-              # Read line by line
+              # git diff-tree --name-status output: "<STATUS>\t<path>" or "R100\t<old>\t<new>"
               while IFS= read -r line || [[ -n "$line" ]]; do
-                # 1. Check if line is NOT empty
-                # 2. Check if line does NOT contain ".github" or .obsidian
-                if [[ -n "$line" ]] && [[ "$line" != *".github"* ]] && [[ "$line" != *".obsidian"* ]]; then
-                  echo "Updating: docs/$line"
-                  node search/index.mjs --update "$line"
-                else
-                  echo "Skipping: $line"
-                fi
+                if [[ -z "$line" ]]; then continue; fi
+
+                status=$(printf '%s' "$line" | cut -f1)
+                case "$status" in
+                  A|M|T)
+                    file=$(printf '%s' "$line" | cut -f2)
+                    if should_skip "$file"; then
+                      echo "Skipping: $file"
+                      continue
+                    fi
+                    echo "Updating: docs/$file"
+                    node search/index.mjs --update "$file" || echo "Update failed (continuing): $file"
+                    ;;
+                  D)
+                    file=$(printf '%s' "$line" | cut -f2)
+                    if should_skip "$file"; then
+                      echo "Skipping deleted: $file"
+                      continue
+                    fi
+                    echo "Deleting from algolia: $file"
+                    node search/index.mjs --delete "$file" || echo "Delete failed (continuing): $file"
+                    ;;
+                  R*|C*)
+                    old=$(printf '%s' "$line" | cut -f2)
+                    new=$(printf '%s' "$line" | cut -f3)
+                    if should_skip "$old"; then
+                      echo "Skipping renamed-from: $old"
+                    else
+                      echo "Deleting renamed-from: $old"
+                      node search/index.mjs --delete "$old" || echo "Delete failed (continuing): $old"
+                    fi
+                    if should_skip "$new"; then
+                      echo "Skipping renamed-to: $new"
+                    else
+                      echo "Updating renamed-to: docs/$new"
+                      node search/index.mjs --update "$new" || echo "Update failed (continuing): $new"
+                    fi
+                    ;;
+                  *)
+                    echo "Skipping unknown status '$status': $line"
+                    ;;
+                esac
               done < "/app/git_diff.txt"
           else
               echo "File is empty, skipping..."
