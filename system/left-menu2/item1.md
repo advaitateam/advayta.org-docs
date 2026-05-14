@@ -1,6 +1,6 @@
 ---
 draft: true
-text: Принять Символ веры
+text: Принять Прибежище
 href: /prinyat-simvol-veri
 image: /images/main/menu1.webp
 
