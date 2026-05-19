@@ -6,9 +6,7 @@ href: /obuchenie
 topic: left-menu
 render: true
 ---
-::: sumbenu-item {href="/obuchenie/sistema-obucheniya"}
-Система обучения
-:::
+
 ::: sumbenu-item {href="/obuchenie/ochnoe-obuchenie"}
 Очное обучение
 :::
@@ -21,6 +19,6 @@ render: true
 ::: sumbenu-item {href="/obuchenie/filosofskaya-konferentsiya"}
 Философская конференция
 :::
-::: sumbenu-item {href="/obuchenie/krossvordi"}
-Кроссворды
+::: sumbenu-item {href="/prinyat-simvol-veri"}
+Принять Прибежище
 :::
