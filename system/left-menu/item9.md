@@ -16,9 +16,9 @@ render: true
 ::: sumbenu-item {href="/obuchenie/filosofskie-disputi"}
 Философские диспуты
 :::
-%% ::: sumbenu-item {href="/obuchenie/filosofskaya-konferentsiya"}
+::: sumbenu-item {href="/obuchenie/filosofskaya-konferentsiya"}
 Философская конференция
-::: %%
+::: 
 ::: sumbenu-item {href="/prinyat-simvol-veri"}
 Принять Прибежище
 :::
