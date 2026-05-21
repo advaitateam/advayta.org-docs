@@ -6,5 +6,6 @@
   "metadata-menu",
   "dataview",
   "obsidian-git",
-  "s3-image-uploader"
+  "s3-image-uploader",
+  "vault-file-renamer"
 ]
