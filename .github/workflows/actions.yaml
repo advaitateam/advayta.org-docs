@@ -11,6 +11,9 @@ jobs:
     name: Deploy
     container:
       image: webdeveloppro/tabs-yarn:latest   # or ghcr.io/my-org/my-app:1.2.3
+    env:
+      APP_DIR: /app/apps/advayta-org
+      GIT_DIFF_FILE: /app/git_diff.txt
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,17 +32,18 @@ jobs:
       - name: Find required build
         run: |
           set -a
-          source /app/.master.env
+          . "$APP_DIR/.master.env"
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           ## fix russian letters
           export LANG=en_US.UTF-8
           export LC_ALL=en_US.UTF-8
           git config --global core.quotepath false
           
-          git diff-tree --no-commit-id --name-status -r HEAD > /app/git_diff.txt
-          cat /app/git_diff.txt
-          cp -rf $GITHUB_WORKSPACE /app/docs
-          cd /app
+          git diff-tree --no-commit-id --name-status -r HEAD > "$GIT_DIFF_FILE"
+          cat "$GIT_DIFF_FILE"
+          rm -rf "$APP_DIR/docs"
+          cp -rf "$GITHUB_WORKSPACE" "$APP_DIR/docs"
+          cd "$APP_DIR"
           chmod +x ./make.sh
           export VITE_SRC_DIR=$GITHUB_WORKSPACE
           
@@ -51,31 +55,32 @@ jobs:
 
       - name: Deploy
         run: |
-          cd /app
+          cd "$APP_DIR"
           set -a
-          source .master.env
+          . .master.env
           ./make.sh deploy-needed
           echo "done"
 
       - name: Update algolia search
         run: |
-          cd /app
+          cd "$APP_DIR"
           set -a
-          source .master.env
-          ls /app/docs
+          . .master.env
+          ls "$APP_DIR/docs"
           # Helper: returns 0 if the path should be excluded (.github / .obsidian / non-md).
           should_skip() {
-            local p="$1"
-            if [[ -z "$p" ]]; then return 0; fi
-            if [[ "$p" == *".github"* || "$p" == *".obsidian"* ]]; then return 0; fi
-            if [[ "$p" != *.md ]]; then return 0; fi
-            return 1
+            p="$1"
+            case "$p" in
+              ""|*".github"*|*".obsidian"*) return 0 ;;
+              *.md) return 1 ;;
+              *) return 0 ;;
+            esac
           }
 
-          if [ -s /app/git_diff.txt ]; then
+          if [ -s "$GIT_DIFF_FILE" ]; then
               # git diff-tree --name-status output: "<STATUS>\t<path>" or "R100\t<old>\t<new>"
-              while IFS= read -r line || [[ -n "$line" ]]; do
-                if [[ -z "$line" ]]; then continue; fi
+              while IFS= read -r line || [ -n "$line" ]; do
+                if [ -z "$line" ]; then continue; fi
 
                 status=$(printf '%s' "$line" | cut -f1)
                 case "$status" in
@@ -117,7 +122,7 @@ jobs:
                     echo "Skipping unknown status '$status': $line"
                     ;;
                 esac
-              done < "/app/git_diff.txt"
+              done < "$GIT_DIFF_FILE"
           else
               echo "File is empty, skipping..."
           fi
