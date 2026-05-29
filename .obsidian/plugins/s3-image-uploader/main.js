@@ -15853,7 +15853,8 @@ var DEFAULT_SETTINGS = {
   maxImageCompressionSize: 1,
   imageCompressionQuality: 0.7,
   maxImageWidthOrHeight: 4096,
-  ignorePattern: ""
+  ignorePattern: "",
+  disableAutoUploadOnCreate: false
 };
 var S3UploaderPlugin = class extends import_obsidian.Plugin {
   async replaceText(editor, target, replacement) {
@@ -15928,6 +15929,9 @@ var S3UploaderPlugin = class extends import_obsidian.Plugin {
     return matchesGlobPattern(filePath, this.settings.ignorePattern);
   }
   async uploadFile(file, key) {
+    if (!this.s3) {
+      throw new Error("S3 client not configured. Please configure the plugin settings first.");
+    }
     const buf = await file.arrayBuffer();
     await this.s3.send(new PutObjectCommand({
       Bucket: this.settings.bucket,
@@ -16023,7 +16027,7 @@ var S3UploaderPlugin = class extends import_obsidian.Plugin {
           folder = (_b2 = fm == null ? void 0 : fm.uploadFolder) != null ? _b2 : this.settings.folder;
         }
         const currentDate = new Date();
-        folder = folder.replace("${year}", currentDate.getFullYear().toString()).replace("${month}", String(currentDate.getMonth() + 1).padStart(2, "0")).replace("${day}", String(currentDate.getDate()).padStart(2, "0"));
+        folder = folder.replace("${year}", currentDate.getFullYear().toString()).replace("${month}", String(currentDate.getMonth() + 1).padStart(2, "0")).replace("${day}", String(currentDate.getDate()).padStart(2, "0")).replace("${basename}", noteFile.basename.replace(/ /g, "-"));
         const key = folder ? `${folder}/${newFileName}` : newFileName;
         try {
           let url;
@@ -16067,6 +16071,9 @@ var S3UploaderPlugin = class extends import_obsidian.Plugin {
     }
   }
   createS3Client() {
+    if (!this.settings.region) {
+      return;
+    }
     const apiEndpoint = this.settings.useCustomEndpoint ? this.settings.customEndpoint : `https://s3.${this.settings.region}.amazonaws.com/`;
     this.settings.imageUrlPath = this.settings.useCustomImageUrl ? this.settings.customImageUrl : this.settings.forcePathStyle ? apiEndpoint + this.settings.bucket + "/" : apiEndpoint.replace("://", `://${this.settings.bucket}.`);
     if (this.settings.bypassCors) {
@@ -16120,6 +16127,8 @@ var S3UploaderPlugin = class extends import_obsidian.Plugin {
     this.registerEvent(this.app.workspace.on("editor-paste", this.pasteFunction));
     this.registerEvent(this.app.workspace.on("editor-drop", this.pasteFunction));
     this.registerEvent(this.app.vault.on("create", async (file) => {
+      if (this.settings.disableAutoUploadOnCreate)
+        return;
       if (!(file instanceof import_obsidian.TFile))
         return;
       if (!file.path.match(/\.(jpg|jpeg|png|gif|webp)$/i))
@@ -16217,7 +16226,7 @@ var S3UploaderSettingTab = class extends import_obsidian.PluginSettingTab {
       this.plugin.createS3Client();
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Bucket folder").setDesc("Optional folder in s3 bucket. Support the use of ${year}, ${month}, and ${day} variables.").addText((text) => text.setPlaceholder("folder").setValue(this.plugin.settings.folder).onChange(async (value) => {
+    new import_obsidian.Setting(containerEl).setName("Bucket folder").setDesc("Optional folder in s3 bucket. Support the use of ${year}, ${month}, ${day} and ${basename} variables.").addText((text) => text.setPlaceholder("folder").setValue(this.plugin.settings.folder).onChange(async (value) => {
       this.plugin.settings.folder = value.trim();
       await this.plugin.saveSettings();
     }));
@@ -16340,6 +16349,12 @@ var S3UploaderSettingTab = class extends import_obsidian.PluginSettingTab {
       await this.plugin.saveSettings();
     }));
     this.toggleCompressionSettings(this.plugin.settings.enableImageCompression);
+    new import_obsidian.Setting(containerEl).setName("Disable auto-upload on file create").setDesc("Disable automatic upload when image files are created in the vault (e.g., via sync or external processes). Paste and drag-drop uploads will still work. Enable this if you experience unwanted uploads on startup or when using cloud sync.").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.disableAutoUploadOnCreate).onChange(async (value) => {
+        this.plugin.settings.disableAutoUploadOnCreate = value;
+        await this.plugin.saveSettings();
+      });
+    });
     new import_obsidian.Setting(containerEl).setName("Ignore Pattern").setDesc("Glob pattern to ignore files/folders. Use * for any characters, ** for any path, ? for single character. Separate multiple patterns with commas. Example: 'private/*, **/drafts/**, temp*'").addText((text) => text.setPlaceholder("private/*, **/drafts/**").setValue(this.plugin.settings.ignorePattern).onChange(async (value) => {
       this.plugin.settings.ignorePattern = value.trim();
       await this.plugin.saveSettings();
@@ -16508,3 +16523,5 @@ PERFORMANCE OF THIS SOFTWARE.
  * @license BSD-3-Clause
  * @version 10.1.6
  */
+
+/* nosourcemap */
