@@ -4,6 +4,10 @@ title: "Садхана Махамантры &quot;Ом Намах Шивайя&q
 publishDate: 01-01-2025
 description: ""
 tags:
+  - новое-на-сайте
+  - новости
+  - шива
+  - мантра
 image: "https://filer-api.advayta.org/v1.0/public/files/12828?type=small"
 draft: false
 ---

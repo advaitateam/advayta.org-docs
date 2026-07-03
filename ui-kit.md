@@ -1,6 +1,9 @@
 ---
 layout: uikit-single
 title: UI Kit
+tags:
+  - санатана дхарма
+  - ui-kit
 slug: ui-kit
 is_main: true
 draft: false

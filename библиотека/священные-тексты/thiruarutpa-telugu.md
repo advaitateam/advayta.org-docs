@@ -4,6 +4,8 @@ title: "Thiruarutpa Telugu"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - библиотека
+  - священные-тексты
 image:
 draft: false
 ---

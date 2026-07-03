@@ -1,6 +1,9 @@
 ---
 layout: page-detail
 title: Магазин
+tags:
+  - санатана дхарма
+  - дхарма
 publishDate: 2025-05-16
 redirect_to: https://old.advayta.org/shop/
 ---

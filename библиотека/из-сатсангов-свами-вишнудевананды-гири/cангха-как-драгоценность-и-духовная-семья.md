@@ -3,7 +3,10 @@ layout: page-detail
 title: Cангха как драгоценность и духовная семья
 publishDate: 01-01-2025
 description: ""
-tags: 
+tags:
+  - библиотека
+  - сатсанг
+  - свами-вишнудевананда-гири
 image: 
 draft: false
 комментарий: дата не найдена

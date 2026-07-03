@@ -4,6 +4,9 @@ title: "Обращение к марафону PeaceHarmony HWPL, 2022 г."
 publishDate: 01-01-2025
 description: ""
 tags:
+  - видео
+  - выступления
+  - свами-вишнудевананда-гири
 image:
 draft: false
 ---

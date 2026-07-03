@@ -4,6 +4,8 @@ title: "Pagine"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - italiano
+  - санатана дхарма
 image:
 draft: false
 ---

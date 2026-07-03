@@ -4,6 +4,11 @@ title: "Письмо Уильяма C. Бушелла"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - всемирная-община
+  - адвайта
+  - веданта
+  - йога
+  - гуру
 image:
 draft: false
 ---

@@ -4,6 +4,11 @@ title: "Mandala today"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - проекты
+  - йога
+  - карма
+  - гуру
+  - санньяса
 image: "https://filer-api.advayta.org/v1.0/public/files/13988?type=small"
 draft: false
 ---

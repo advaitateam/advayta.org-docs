@@ -4,6 +4,9 @@ title: "Девибхагавата-пурана I"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - библиотека
+  - священные-тексты
+  - пураны
 image:
 draft: false
 ---

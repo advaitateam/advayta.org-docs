@@ -1,5 +1,8 @@
 ---
 title: DZIN FEST
+tags:
+  - организаторы
+  - община
 socialLinks:
   - name: telegram
     title: Написать в Телеграм

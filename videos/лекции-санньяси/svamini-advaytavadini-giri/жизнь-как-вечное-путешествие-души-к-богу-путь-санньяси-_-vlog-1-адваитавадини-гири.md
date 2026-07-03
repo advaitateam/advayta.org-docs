@@ -5,7 +5,11 @@ author:
 title: "жизнь, как вечное путешествие души к богу - путь санньяси | vlog 1, адвайтавадини гири"
 publishDate: 2022-10-20T20:04:28Z
 description: "Жизнь, как вечное путешествие души к Богу - путь санньяси | Vlog 1, Адвайтавадини Гири  2022 г."
-tags: 
+tags:
+  - видео
+  - лекции
+  - санньяса
+  - адвайта
 image: https://i.ytimg.com/vi_webp/v5Eh9mB-W7o/maxresdefault.webp
 draft: false
 ---

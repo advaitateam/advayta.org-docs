@@ -4,6 +4,9 @@ title: "Богиня мудрости Cарасвати"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - библиотека
+  - сатсанг
+  - свами-вишнудевананда-гири
 image:
 draft: false
 ---

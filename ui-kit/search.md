@@ -1,6 +1,9 @@
 ---
 layout: uikit-single
 title: Search Component
+tags:
+  - ui-kit
+  - компоненты
 slug: search
 is_main: false
 draft: false

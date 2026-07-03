@@ -4,6 +4,9 @@ title: "Шабдапракаша. Зографский сборник I"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - библиотека
+  - статьи
+  - дхарма
 image: "https://filer-api.advayta.org/v1.0/public/files/8431?type=small"
 draft: false
 ---

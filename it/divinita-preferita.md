@@ -4,6 +4,8 @@ title: "Divinità preferita"
 publishDate: 01-01-2025
 description: ""
 tags:
+  - italiano
+  - санатана дхарма
 image: "https://filer-api.advayta.org/v1.0/public/files/3766?type=small"
 draft: false
 ---

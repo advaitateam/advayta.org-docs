@@ -50,42 +50,42 @@ interface IRelatedPages {
   import VRelatedPages from 'UiKit/components/VRelatedPages/VRelatedPages.vue';
   import VSectionRelatedPages from 'UiKit/components/VRelatedPages/VSectionRelatedPages.vue';
 import { onMounted, computed } from 'vue';
-import { pages } from 'UiKit/types/pages';
+import { contentTree } from '@/store/content';
 
 
 const currentPage = computed(() => (
-  pages.getPageByURL("/master/intervyu/ayurveda-nauka-zhizni")
+  contentTree.getByUrl("/master/intervyu/ayurveda-nauka-zhizni")
 ));
 
 const relatedPages = computed(() => {
   let data = [];
   if (currentPage.value) {
     // if we have a children - add them
-    if (Object.keys(currentPage.value.children).length > 0) {
+    if (currentPage.value.children().length > 0) {
       data.push(currentPage.value);
     }
-    const parent = currentPage.value.getParent(true);
+    const parent = currentPage.value.parent({ skipVirtual: true });
     // one from top
-    if (parent && parent.data.url != '/') {
+    if (parent?.data && parent.data.url != '/') {
       data = data.concat(parent);
     }
     // all prev and next categories
     let next = currentPage.value.next();
     let idx = 0;
     while (next !== null && idx < 15) {
-      if (next.childsLength() !== 0) {
+      if (next.hasChildren()) {
         data.push(next);
       }
       next = next.next();
       idx ++;
     }
     idx = 0;
-    let prev = currentPage.value.prev();
+    let prev = currentPage.value.previous();
     while (prev !== null && idx < 15) {
-      if (prev.childsLength() !== 0) {
+      if (prev.hasChildren()) {
         data.push(prev);
       }
-      prev = prev.prev();
+      prev = prev.previous();
       idx ++;
     }
   }

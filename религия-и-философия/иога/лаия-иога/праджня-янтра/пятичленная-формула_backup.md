@@ -6,7 +6,10 @@ title: пятичленная формула
 publishDate: 2024-12-13
 draft: false
 description: 
-tags: 
+tags:
+  - религия-и-философия
+  - йога
+  - философия
 image:
 source: https://www.advayta.org/audiogalereya/audiolektsii/730/?sphrase_id=54950
 ---

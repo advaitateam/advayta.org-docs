@@ -4,6 +4,10 @@ title: "Cтавить веру на первое место"
 publishDate: 2019.01.10
 description: ""
 tags:
+  - аудио
+  - аудиогалерея
+  - аудиолекция
+  - сатсанг
 image:
 draft: false
 ---

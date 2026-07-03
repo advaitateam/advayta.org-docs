@@ -6,6 +6,9 @@ publishDate: 2025-11-10
 draft: false
 description: Фонд ВОСД
 tags:
+  - пожертвования
+  - всемирная-община
+  - санатана дхарма
 image:
 ---
 [[toc]]

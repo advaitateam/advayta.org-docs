@@ -5,7 +5,10 @@ author:
 title: "от бренного тела к бессмертному духу. vom vergänglichen körper zum unsterblichen geist"
 publishDate: 2023-04-23
 description: "От бренного тела к бессмертному Духу. Vom vergänglichen Körper zum unsterblichen Geist, Аравиндини Гири  Vom vergänglichen Körper zum unsterblichen Geist Meditation für den Frieden (Shanti Karma)    Дата  23.04.2023 г."
-tags: 
+tags:
+  - видео
+  - лекции
+  - санньяса
 image: https://i.ytimg.com/vi_webp/Fs83DvX3QS4/hqdefault.webp
 draft: false
 ---

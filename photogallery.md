@@ -1,6 +1,9 @@
 ---
 layout: page-detail
 title: "Фотогалерея"
+tags:
+  - санатана дхарма
+  - дхарма
 publishDate: 2025-05-16
 draft: false
 ---

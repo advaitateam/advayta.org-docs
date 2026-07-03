@@ -4,6 +4,11 @@ title: "Миф, ритуал и история в &quot;Махабхарате&q
 publishDate: 01-01-2025
 description: ""
 tags:
+  - библиотека
+  - статьи
+  - дхарма
+  - махабхарата
+  - ритуал
 image: "https://filer-api.advayta.org/v1.0/public/files/8458?type=small"
 draft: false
 ---

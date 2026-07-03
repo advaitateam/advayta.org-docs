@@ -2,6 +2,9 @@
 layout: home
 title: Sanatana Dharma Weltgemeinschaft
 description: Всемирная Община Санатана Дхармы
+tags:
+  - deutsch
+  - санатана дхарма
 image: https://filer-api.advayta.org/v1.0/public/files/86565?size=medium
 page_url: /wiki/anuttara-tantra/laiya-ioga
 ---

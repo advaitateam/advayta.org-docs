@@ -4,6 +4,8 @@ title: "Интeрвью Свами Вишнудевананда Гири на RT
 publishDate: 01-01-2025
 description: ""
 tags:
+  - видео
+  - интервью
 image:
 draft: false
 ---

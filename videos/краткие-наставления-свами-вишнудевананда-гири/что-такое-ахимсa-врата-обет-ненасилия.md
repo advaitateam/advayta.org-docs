@@ -5,7 +5,10 @@ author:
 title: Что такое Ахимсa-врата (обет ненасилия)?
 publishDate: 2022-04-12
 description: Что такое Ахимсa-врата (обет ненасилия)?. 
-tags: 
+tags:
+  - видео
+  - наставления
+  - свами-вишнудевананда-гири
 image: https://i.ytimg.com/vi_webp/oKJuORvqFm8/maxresdefault.webp
 draft: false
 ---
