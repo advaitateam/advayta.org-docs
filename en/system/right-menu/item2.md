@@ -7,7 +7,7 @@ topic: right-menu
 render: true
 ---
 
-::: sumbenu-item {href="/biblioteka/svyashchennye-teksty/"}
+::: sumbenu-item {href="/biblioteka/svyaschennie-teksti"}
 Священные тексты
 :::
 
@@ -15,15 +15,15 @@ render: true
 Книги Свами Вишнудевананда Гири
 :::
 
-::: sumbenu-item {href="/biblioteka/upadeshi-ustnye-nastavleniya-guru/"}
+::: sumbenu-item {href="/biblioteka/upadeshi-_-ustnie-nastavleniya-guru"}
 Упадеши - устные наставления Гуру
 :::
 
-::: sumbenu-item {href="/biblioteka/knigi/"}
+::: sumbenu-item {href="/biblioteka/knigi-o-svyatih-nashei-traditsii"}
 Книги о святых нашей традиции
 :::
 
-::: sumbenu-item {href="/biblioteka/knigi-drugikh-avtorov/"}
+::: sumbenu-item {href="/biblioteka/knigi-drugih-avtorov"}
 Книги других авторов
 :::
 
@@ -31,11 +31,11 @@ render: true
 Мифология
 :::
 
-::: sumbenu-item {href="/biblioteka/stati-i-nauchnye-raboty/"}
+::: sumbenu-item {href="/biblioteka/stati-i-nauchnie-raboti"}
 Статьи и научные работы
 :::
 
-::: sumbenu-item {href="/biblioteka/traktaty-doklady-i-kommentarii/"}
+::: sumbenu-item {href="/biblioteka/traktati_-dokladi-i-kommentarii"}
 Трактаты, доклады и комментарии
 :::
 

@@ -12,15 +12,15 @@ render: true
 ::: sumbenu-item {href="/audiogalereya/audiolektsii"}
 Аудиолекции
 :::
-::: sumbenu-item {href="/audiogalereya/bkhadzhani"}
+::: sumbenu-item {href="/audiogalereya/bhadzhani"}
 Бхаджаны
 :::
 ::: sumbenu-item {href="/audiogalereya/muzika"}
 Музыка
 :::
-::: sumbenu-item {href="/audiogalereya/radioveshchanie"}
+::: sumbenu-item {href="/audiogalereya/radioveschanie"}
 Радиовещание
 :::
-::: sumbenu-item {href="/audiogalereya/svyashchennie-teksti"}
+::: sumbenu-item {href="/audiogalereya/svyaschennie-teksti"}
 Священные тексты
 :::

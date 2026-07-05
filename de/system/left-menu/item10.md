@@ -12,7 +12,7 @@ render: true
 ::: sumbenu-item {href="/praktiki/razdel-energii"}
 Раздел Энергии
 :::
-::: sumbenu-item {href="/praktiki/praktiki-prizivaniya-bogov-i-svyatykh"}
+::: sumbenu-item {href="/praktiki/praktiki-prizyvaniya-bogov-i-svyatykh"}
 Практики призывания богов и святых
 :::
 ::: sumbenu-item {href="/praktiki/molitvi"}

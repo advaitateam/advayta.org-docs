@@ -21,6 +21,6 @@ render: true
 ::: sumbenu-item {href="/obuchenie/filosofskaya-konferentsiya/"}
 Философская конференция
 :::
-::: sumbenu-item {href="/obuchenie/krossvordi"}
+::: sumbenu-item {href="/obuchenie/sistema-obucheniya/krossvordi"}
 Кроссворды
 :::

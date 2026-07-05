@@ -7,11 +7,11 @@ topic: left-menu
 render: true
 ---
 
-::: sumbenu-item {href="/religiya-i-filosofiya/sanatana-dkharma"}
+::: sumbenu-item {href="/religiya-i-filosofiya/sanatana-dharma"}
 Санатана Дхарма
 :::
 
-::: sumbenu-item {href="/religiya-i-filosofiya/advayta-vedanta"}
+::: sumbenu-item {href="/religiya-i-filosofiya/advaita-vedanta"}
 Адвайта Веданта
 :::
 
@@ -27,6 +27,6 @@ render: true
 Йога
 :::
 
-::: sumbenu-item {href="/religiya-i-filosofiya/bogi-i-svyatye-nashey-traditsii"}
+::: sumbenu-item {href="/religiya-i-filosofiya/bogi-i-svyatie-nashei-traditsii"}
 Боги и святые нашей традиции
 :::

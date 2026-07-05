@@ -1,13 +1,13 @@
 ---
 draft: true
 text: Наше будущее
-href: /nashe-budushchee
+href: /nashe-buduschee
 topic: left-menu
 render: true
 ---
-::: sumbenu-item {href="/nashe-budushchee/bessmertie"}
+::: sumbenu-item {href="/nashe-buduschee/bessmertie"}
 Бессмертие
 :::
-::: sumbenu-item {href="/nashe-budushchee/transgumanizm"}
+::: sumbenu-item {href="/nashe-buduschee/transgumanizm"}
 Трансгуманизм
 :::

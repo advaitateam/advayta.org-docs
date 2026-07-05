@@ -8,7 +8,7 @@ topic: right-menu
 render: true
 ---
 
-::: sumbenu-item {href="/biblioteka/svyashchennie-teksti"}
+::: sumbenu-item {href="/biblioteka/svyaschennie-teksti"}
 Священные тексты
 :::
 
@@ -20,11 +20,11 @@ render: true
 Упадеши - устные наставления Гуру
 :::
 
-::: sumbenu-item {href="/biblioteka/knigi-o-svyatikh-nashei-traditsii"}
+::: sumbenu-item {href="/biblioteka/knigi-o-svyatih-nashei-traditsii"}
 Книги о святых нашей традиции
 :::
 
-::: sumbenu-item {href="/biblioteka/knigi-drugikh-avtorov"}
+::: sumbenu-item {href="/biblioteka/knigi-drugih-avtorov"}
 Книги других авторов
 :::
 

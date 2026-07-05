@@ -7,7 +7,7 @@ topic: left-menu
 render: true
 ---
 
-::: sumbenu-item {href="/religiya-i-filosofiya/sanatana-dkharma"}
+::: sumbenu-item {href="/religiya-i-filosofiya/sanatana-dharma"}
 Санатана Дхарма
 :::
 
@@ -27,6 +27,6 @@ render: true
 Йога
 :::
 
-::: sumbenu-item {href="/religiya-i-filosofiya/sanatana-dkharma/bozhestva-i-demoni/bozhestva-i-svyatie-nashei-traditsii"}
+::: sumbenu-item {href="/religiya-i-filosofiya/sanatana-dharma/bozhestva-i-demoni/bozhestva-i-svyatie-nashei-traditsii"}
 Боги и святые нашей традиции
 :::

@@ -11,7 +11,7 @@ render: true
 ::: sumbenu-item {href="/master/moya-zhizn-v-boge"}
 Моя жизнь в Боге
 :::
-::: sumbenu-item {href="/master/guru-yoga"}
+::: sumbenu-item {href="/master/guru-ioga"}
 Гуру-йога
 :::
 ::: sumbenu-item {href="/master/pesni-probuzhdennogo"}
