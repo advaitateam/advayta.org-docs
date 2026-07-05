@@ -9,7 +9,7 @@ render: true
 ::: sumbenu-item {href="/vsemirnaya-obschina/tvorchestvo-chlenov-obshchini"}
 Творчество членов Общины
 :::
-::: sumbenu-item {href="/vsemirnaya-obschina/monasheskaya-obshchina-sannyasi/"}
+::: sumbenu-item {href="/vsemirnaya-obschina/monasheskaya-obschina-sannyasi/"}
 Монашеская община санньяси
 :::
 ::: sumbenu-item {href="/vsemirnaya-obschina/obshchina-semeinikh-sadkhu"}
