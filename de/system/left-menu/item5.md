@@ -12,7 +12,7 @@ render: true
 ::: sumbenu-item {href="/vsemirnaya-obschina/monasheskaya-obschina-sannyasi/"}
 Монашеская община санньяси
 :::
-::: sumbenu-item {href="/vsemirnaya-obschina/obshchina-semeinikh-sadkhu"}
+::: sumbenu-item {href="/vsemirnaya-obschina/obschina-semeinikh-sadkhu"}
 Община семейных садху
 :::
 ::: sumbenu-item {href="/vsemirnaya-obschina/dkharma-tsentri"}
