@@ -14,16 +14,16 @@ will automatically adjust amount of columns
 ```
 ::::: grid
 
-::: card-image {href="/vsemirnaya-obshchina/ramanatkha-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76375?size=medium"}
-_**[Раманатха Гири](/vsemirnaya-obshchina/ramanatkha-giri/)**_
+::: card-image {href="/vsemirnaya-obschina/ramanatkha-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76375?size=medium"}
+_**[Раманатха Гири](/vsemirnaya-obschina/ramanatkha-giri/)**_
 :::
 
-::: card-image {href="/vsemirnaya-obshchina/traylokyadevi-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76376?size=medium"}
-_**[Трайлокьядеви Гири](/vsemirnaya-obshchina/traylokyadevi-giri/)**_
+::: card-image {href="/vsemirnaya-obschina/traylokyadevi-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76376?size=medium"}
+_**[Трайлокьядеви Гири](/vsemirnaya-obschina/traylokyadevi-giri/)**_
 :::
 
-::: card-image {href="/vsemirnaya-obshchina/vedamatri-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/81540?size=medium"}
-[_**Ведаматри Гири**_](/vsemirnaya-obshchina/vedamatri-giri/)
+::: card-image {href="/vsemirnaya-obschina/vedamatri-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/81540?size=medium"}
+[_**Ведаматри Гири**_](/vsemirnaya-obschina/vedamatri-giri/)
 :::
 
 :::::
@@ -31,16 +31,16 @@ _**[Трайлокьядеви Гири](/vsemirnaya-obshchina/traylokyadevi-gir
 
 ::::: grid
 
-::: card-image {href="/vsemirnaya-obshchina/ramanatkha-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76377?size=medium"}
-_**[Раманатха Гири](/vsemirnaya-obshchina/ramanatkha-giri/)**_
+::: card-image {href="/vsemirnaya-obschina/ramanatkha-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76377?size=medium"}
+_**[Раманатха Гири](/vsemirnaya-obschina/ramanatkha-giri/)**_
 :::
 
-::: card-image {href="/vsemirnaya-obshchina/traylokyadevi-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76378?size=medium"}
-_**[Трайлокьядеви Гири](/vsemirnaya-obshchina/traylokyadevi-giri/)**_
+::: card-image {href="/vsemirnaya-obschina/traylokyadevi-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/76378?size=medium"}
+_**[Трайлокьядеви Гири](/vsemirnaya-obschina/traylokyadevi-giri/)**_
 :::
 
-::: card-image {href="/vsemirnaya-obshchina/vedamatri-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/81542?size=medium"}
-[_**Ведаматри Гири**_](/vsemirnaya-obshchina/vedamatri-giri/)
+::: card-image {href="/vsemirnaya-obschina/vedamatri-giri/" imageSrc="https://filer-api.advayta.org/v1.0/public/files/81542?size=medium"}
+[_**Ведаматри Гири**_](/vsemirnaya-obschina/vedamatri-giri/)
 :::
 
 :::::
