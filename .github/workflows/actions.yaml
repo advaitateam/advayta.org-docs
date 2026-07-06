@@ -66,6 +66,9 @@ jobs:
           cd "$APP_DIR"
           set -a
           . .master.env
+          rm -rf "$APP_DIR/docs"
+          cp -rf "$GITHUB_WORKSPACE" "$APP_DIR/docs"
+          export VITE_SRC_DIR="$APP_DIR/docs"
           ls "$APP_DIR/docs"
           # Helper: returns 0 if the path should be excluded (.github / .obsidian / non-md).
           should_skip() {
@@ -90,8 +93,9 @@ jobs:
                       echo "Skipping: $file"
                       continue
                     fi
-                    echo "Updating: docs/$file"
-                    node search/index.mjs --update "$file" || echo "Update failed (continuing): $file"
+                    echo "Updating: $VITE_SRC_DIR/$file"
+                    test -f "$VITE_SRC_DIR/$file"
+                    node search/index.mjs --update "$file"
                     ;;
                   D)
                     file=$(printf '%s' "$line" | cut -f2)
@@ -100,7 +104,7 @@ jobs:
                       continue
                     fi
                     echo "Deleting from algolia: $file"
-                    node search/index.mjs --delete "$file" || echo "Delete failed (continuing): $file"
+                    node search/index.mjs --delete "$file"
                     ;;
                   R*|C*)
                     old=$(printf '%s' "$line" | cut -f2)
@@ -109,13 +113,14 @@ jobs:
                       echo "Skipping renamed-from: $old"
                     else
                       echo "Deleting renamed-from: $old"
-                      node search/index.mjs --delete "$old" || echo "Delete failed (continuing): $old"
+                      node search/index.mjs --delete "$old"
                     fi
                     if should_skip "$new"; then
                       echo "Skipping renamed-to: $new"
                     else
-                      echo "Updating renamed-to: docs/$new"
-                      node search/index.mjs --update "$new" || echo "Update failed (continuing): $new"
+                      echo "Updating renamed-to: $VITE_SRC_DIR/$new"
+                      test -f "$VITE_SRC_DIR/$new"
+                      node search/index.mjs --update "$new"
                     fi
                     ;;
                   *)
