@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Sanatana Dharma"
 publishDate: 01-01-2025
-description: ""
+description: "Il Sanatana Dharma (come viene chiamato l'induismo in India) può essere definito a buon diritto la religione più antica della terra."
 tags:
   - italiano
   - санатана дхарма

@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Махапаpиниббана Сутта"
 publishDate: 01-01-2025
-description: ""
+description: "Библиотечный материал «Махапаpиниббана Сутта» из собрания текстов и наставлений Advayta.org."
 tags:
   - библиотека
   - священные-тексты

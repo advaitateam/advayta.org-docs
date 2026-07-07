@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Обращение к марафону PeaceHarmony HWPL, 2022 г."
 publishDate: 01-01-2025
-description: ""
+description: "Видео «Обращение к марафону PeaceHarmony HWPL, 2022 г.» из раздела «выступления свами вишнудевананда гири» на Advayta.org."
 tags:
   - видео
   - выступления

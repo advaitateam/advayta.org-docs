@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Grid
+description: "Документация UI Kit для компонента Grid: назначение, варианты использования и примеры подключения."
 slug: grid
 draft: false
 publishDate: 2024-10-10

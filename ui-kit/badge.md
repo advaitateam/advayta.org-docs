@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Badge
+description: "The VBadge component is a versatile and customizable badge element built using ShadCN Vue library."
 slug: badges
 draft: false
 publishDate: 2024-10-10

@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Pagine"
 publishDate: 01-01-2025
-description: ""
+description: "Dei e Santi della nostra tradizione:Brahma, Vishnu, Shiva, Dattatreya, Parvati, Lakshmi, Saraswati, Gayatri."
 tags:
   - italiano
   - санатана дхарма

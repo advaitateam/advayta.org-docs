@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Brahma"
 publishDate: 01-01-2025
-description: ""
+description: "Brahma è una delle divinità della Trimurti, la Trinità divina. È il creatore dell'universo, la personificazione di srishtha-shakti (energia creativa) e raja-guna."
 tags:
   - italiano
   - санатана дхарма

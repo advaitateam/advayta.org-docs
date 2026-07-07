@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Девибхагавата-пурана II"
 publishDate: 01-01-2025
-description: ""
+description: "Библиотечный материал «Девибхагавата-пурана II» из собрания текстов и наставлений Advayta.org."
 tags:
   - библиотека
   - священные-тексты

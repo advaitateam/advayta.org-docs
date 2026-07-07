@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Vishnu"
 publishDate: 01-01-2025
-description: ""
+description: "Vishnu è il dio guardiano dell'universo, uno dei Trimurti, la divina Trinità degli dei. Rappresenta l'energia di sostegno dell'Assoluto (sthiti) e il guna sattva."
 tags:
   - italiano
   - санатана дхарма

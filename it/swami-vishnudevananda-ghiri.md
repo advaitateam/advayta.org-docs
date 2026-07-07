@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Swami Vishnudevananda Ghiri"
 publishDate: 01-01-2025
-description: ""
+description: "«La vera pratica è un continuo vivere nell'esperienza di Dio, un continuo vivere nel divino»."
 tags:
   - italiano
   - санатана дхарма

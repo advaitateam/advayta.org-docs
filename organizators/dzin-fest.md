@@ -1,5 +1,6 @@
 ---
 title: DZIN FEST
+description: "Страница организатора «DZIN FEST» на Advayta.org."
 tags:
   - организаторы
   - община

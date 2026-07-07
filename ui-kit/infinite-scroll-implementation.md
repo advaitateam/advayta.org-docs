@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Infinite Scroll
+description: "This document explains how to use the general infinite scroll solution implemented in the codebase."
 slug: infinite-scroll
 draft: false
 publishDate: 2025-08-05

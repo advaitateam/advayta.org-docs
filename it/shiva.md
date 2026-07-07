@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Shiva"
 publishDate: 01-01-2025
-description: ""
+description: "Significato del nome: Sanscrito. śiva, \"buono\", \"misericordioso\". Shiva rappresenta la coscienza cosmica, l'inizio statico maschile dell'universo (Purusha)."
 tags:
   - italiano
   - санатана дхарма

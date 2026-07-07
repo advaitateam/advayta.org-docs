@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Parvati"
 publishDate: 01-01-2025
-description: ""
+description: "Parvati è la consorte di Shiva. È la madre dell'universo, conosciuta con altri nomi: Gauri, Uma, Amba, Durga, Bhavani, Tripurasundari, Kali e molti altri."
 tags:
   - italiano
   - санатана дхарма

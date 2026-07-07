@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Lo yoga"
 publishDate: 01-01-2025
-description: ""
+description: "Lo yoga è solitamente definito come l'unione o l'unità del sé limitato (jiva) e del sé cosmico (Atman)."
 tags:
   - italiano
   - санатана дхарма

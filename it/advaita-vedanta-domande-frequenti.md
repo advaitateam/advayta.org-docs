@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Advaita Vedanta - Domande frequenti"
 publishDate: 01-01-2025
-description: ""
+description: "L'Advaita, che letteralmente significa \"non-dualismo\", è il nome della più antica scuola di Vedanta esistente."
 tags:
   - italiano
   - санатана дхарма

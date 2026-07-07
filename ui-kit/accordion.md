@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Accordion
+description: "The VAccordion component is a flexible and highly customizable accordion element built using the ShadCN Vue library (official documentation)."
 slug: accordion
 draft: false
 publishDate: 2024-10-10

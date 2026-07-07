@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Cтавить веру на первое место"
 publishDate: 2019.01.10
-description: ""
+description: "Аудиолекция «Cтавить веру на первое место» из раздела «аудиолекции» на Advayta.org."
 tags:
   - аудио
   - аудиогалерея

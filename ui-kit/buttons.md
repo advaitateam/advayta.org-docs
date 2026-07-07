@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Button
+description: "Documentation for the VButton component: location, usage, import example, and variants in the UI Kit."
 slug: button
 draft: false
 publishDate: 2024-10-10

@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Global Loader
+description: "The Global Loader is a centralized loading state management system that provides a consistent loading experience across the application."
 slug: global-loader
 draft: false
 publishDate: 2025-08-05

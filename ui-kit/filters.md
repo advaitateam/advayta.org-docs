@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Filters
+description: "VDialogFilters is a modal dialog that provides a simple way to add author and country filters to any listing page."
 slug: filters
 draft: false
 publishDate: 2025-10-13

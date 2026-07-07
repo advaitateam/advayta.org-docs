@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Popular Tags
+description: "The website includes functionality to display the 25 most popular tags across all content."
 slug: popular-tags
 draft: false
 publishDate: 2024-10-10

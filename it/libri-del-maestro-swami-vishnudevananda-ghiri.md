@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Libri del Maestro Swami Vishnudevananda Ghiri"
 publishDate: 01-01-2025
-description: ""
+description: "Pagina in italiano dedicata a Libri del Maestro Swami Vishnudevananda Ghiri nella sezione italiana di Advayta.org."
 tags:
   - italiano
   - санатана дхарма

@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Освобождающий нектар драгоценных наставлений (читает Nikosho)"
 publishDate: 01-01-2025
-description: ""
+description: "Аудиокнига «Освобождающий нектар драгоценных наставлений (читает Nikosho)» в аудиогалерее Advayta.org."
 tags:
   - аудио
   - аудиогалерея

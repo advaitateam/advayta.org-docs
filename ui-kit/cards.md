@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Cards
+description: "The VCard component is a flexible and highly customizable card element built using the ShadCN Vue library (official documentation)."
 slug: cards
 draft: false
 publishDate: 2024-10-10

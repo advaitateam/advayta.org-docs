@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Pages
+description: "In the pages section, you can explore details about components specifically designed with pre-styled layouts for various pages."
 slug: pages
 draft: false
 publishDate: 2024-10-10

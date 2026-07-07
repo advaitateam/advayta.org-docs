@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Address
+description: "Документация UI Kit для компонента Address: назначение, варианты использования и примеры подключения."
 slug: address
 draft: false
 publishDate: 2024-10-10

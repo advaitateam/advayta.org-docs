@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Mandala today"
 publishDate: 01-01-2025
-description: ""
+description: "Раздел проектов «Mandala today» с инициативами и материалами Advayta.org."
 tags:
   - проекты
   - йога

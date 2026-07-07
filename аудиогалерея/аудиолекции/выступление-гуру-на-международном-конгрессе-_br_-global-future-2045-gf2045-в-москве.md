@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Выступление Гуру на Международном конгрессе <br> «Global Future 2045» (GF2045) в Москве"
 publishDate: 2012.02.18
-description: ""
+description: "Аудиолекция «Выступление Гуру на Международном конгрессе «Global Future 2045» (GF2045) в Москве» из раздела «аудиолекции» на Advayta.org."
 tags:
   - аудио
   - аудиогалерея

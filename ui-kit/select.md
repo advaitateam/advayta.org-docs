@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Select
+description: "import VSelect from 'UiKit/components/VSelect.vue';."
 slug: select
 draft: false
 publishDate: 2024-10-10

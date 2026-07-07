@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Thiruarutpa Bulgarian"
 publishDate: 01-01-2025
-description: ""
+description: "Библиотечный материал «Thiruarutpa Bulgarian» из собрания текстов и наставлений Advayta.org."
 tags:
   - библиотека
   - священные-тексты

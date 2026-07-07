@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Error Page
+description: "The VErrorPage component is a Vue 3 component that displays a 404 error page when a user navigates to a non-existent route."
 slug: error-page
 draft: false
 publishDate: 2024-10-10

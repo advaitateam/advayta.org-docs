@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Шримад Бхагаватам I"
 publishDate: 01-01-2025
-description: ""
+description: "Библиотечный материал «Шримад Бхагаватам I» из собрания текстов и наставлений Advayta.org."
 tags:
   - библиотека
   - священные-тексты

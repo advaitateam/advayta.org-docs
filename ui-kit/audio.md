@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Audio Player
+description: "VAudioPlayer is a custom, accessible audio player with play/pause, progress seek, volume controls, optional download button, and keyboard navigation support."
 slug: audio
 draft: false
 publishDate: 2025-10-13

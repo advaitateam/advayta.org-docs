@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Related Pages
+description: "The VRelatedPages component is a Vue 3 component that displays a table of related pages, grouped by a specified category."
 slug: related-pages
 draft: false
 publishDate: 2024-10-10

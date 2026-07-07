@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Divinità preferita"
 publishDate: 01-01-2025
-description: ""
+description: "Pagina su Dattatreya come Guru dell'umanità e sul significato della divinità prescelta nel cammino spirituale."
 tags:
   - italiano
   - санатана дхарма

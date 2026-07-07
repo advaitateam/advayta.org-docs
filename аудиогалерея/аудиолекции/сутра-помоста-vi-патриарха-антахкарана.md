@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Сутра помоста VI Патриарха. Антахкарана"
 publishDate: 2003.03.10
-description: ""
+description: "Аудиолекция «Сутра помоста VI Патриарха. Антахкарана» из раздела «аудиолекции» на Advayta.org."
 tags:
   - аудио
   - аудиогалерея

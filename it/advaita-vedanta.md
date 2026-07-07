@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Advaita Vedanta"
 publishDate: 01-01-2025
-description: ""
+description: "(Autori: S. Chatterjee e D. Datta; a cura di Prakashananda)."
 tags:
   - italiano
   - санатана дхарма

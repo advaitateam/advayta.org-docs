@@ -4,7 +4,7 @@ editor: Видьяранья
 title: new
 publishDate: 2025-11-09
 draft: false
-description:
+description: "Служебная страница новых материалов Advayta.org."
 tags:
   - санатана дхарма
   - дхарма

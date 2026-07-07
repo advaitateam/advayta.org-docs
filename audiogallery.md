@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Аудиогалерея"
 publishDate: 01-01-2025
-description: ""
+description: "Аудиогалерея Advayta.org с лекциями, сатсангами, аудиокнигами, бхаджанами и радиопрограммами."
 tags:
   - санатана дхарма
   - адвайта

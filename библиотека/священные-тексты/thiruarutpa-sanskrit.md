@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Thiruarutpa Sanskrit"
 publishDate: 01-01-2025
-description: ""
+description: "Библиотечный материал «Thiruarutpa Sanskrit» из собрания текстов и наставлений Advayta.org."
 tags:
   - библиотека
   - священные-тексты

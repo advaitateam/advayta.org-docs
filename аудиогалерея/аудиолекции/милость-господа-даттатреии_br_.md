@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Милость господа Даттатрейи<br>"
 publishDate: 2009.02.10
-description: ""
+description: "Аудиолекция «Милость господа Даттатрейи» из раздела «аудиолекции» на Advayta.org."
 tags:
   - аудио
   - аудиогалерея

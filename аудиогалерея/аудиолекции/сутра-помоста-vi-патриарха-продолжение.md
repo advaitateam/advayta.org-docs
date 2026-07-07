@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Сутра помоста VI Патриарха (продолжение)"
 publishDate: 2003.01.04
-description: ""
+description: "Аудиолекция «Сутра помоста VI Патриарха (продолжение)» из раздела «аудиолекции» на Advayta.org."
 tags:
   - аудио
   - аудиогалерея

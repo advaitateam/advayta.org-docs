@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Saraswati"
 publishDate: 01-01-2025
-description: ""
+description: "Saraswati è la dea della parola, della saggezza e della conoscenza nel pantheon vedico delle divinità."
 tags:
   - italiano
   - санатана дхарма

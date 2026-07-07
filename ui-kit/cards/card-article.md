@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Article
+description: "The VCardArticle component is a versatile card designed for displaying article information, including a publish date, title, description, and an optional cover image."
 slug: card-article
 draft: false
 publishDate: 2024-10-10

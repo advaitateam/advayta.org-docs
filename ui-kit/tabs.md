@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Tabs
+description: "import VTabs, VTabsList, VTabsTrigger from 'UiKit/components/Base/VTabs';."
 slug: tabs
 draft: false
 publishDate: 2024-10-10

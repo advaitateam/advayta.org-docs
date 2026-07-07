@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Religione e filosofia"
 publishDate: 01-01-2025
-description: ""
+description: "Tradizione religiosa: Sanatana Dharma (Induismo)."
 tags:
   - italiano
   - санатана дхарма

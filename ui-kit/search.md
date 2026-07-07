@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Search Component
+description: "The search functionality in this application is powered by Algolia DocSearch and provides a powerful, fast search experience across the entire site."
 tags:
   - ui-kit
   - компоненты

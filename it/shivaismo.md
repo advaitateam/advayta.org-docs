@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Shivaismo"
 publishDate: 01-01-2025
-description: ""
+description: "Lo Shivaismo è uno dei principali rami dell'Induismo, una tradizione che onora Shiva."
 tags:
   - italiano
   - санатана дхарма

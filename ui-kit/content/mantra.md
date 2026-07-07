@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Mantra
+description: "Документация UI Kit для компонента Mantra: назначение, варианты использования и примеры подключения."
 slug: mantra
 draft: false
 publishDate: 2024-10-10

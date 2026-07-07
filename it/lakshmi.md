@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Lakshmi"
 publishDate: 01-01-2025
-description: ""
+description: "Lakshmi è la dea dell'abbondanza, della prosperità, della ricchezza, della fortuna e della felicità."
 tags:
   - italiano
   - санатана дхарма

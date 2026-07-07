@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Breadcrumb
+description: "The VBreadcrumb component is a flexible and highly customizable element built using the ShadCN Vue library (official documentation)."
 slug: breadcrumb
 draft: false
 publishDate: 2024-10-10

@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Вишну-пурана. Книга I"
 publishDate: 01-01-2025
-description: ""
+description: "Библиотечный материал «Вишну-пурана. Книга I» из собрания текстов и наставлений Advayta.org."
 tags:
   - библиотека
   - священные-тексты

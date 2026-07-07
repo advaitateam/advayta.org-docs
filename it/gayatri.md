@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Gayatri"
 publishDate: 01-01-2025
-description: ""
+description: "Lei [Gayatri ] è la madre dei quattro colori (varnas), la fonte dei (sei) Vedanga (rami dei Veda) e di tutti i Chanda."
 tags:
   - italiano
   - санатана дхарма

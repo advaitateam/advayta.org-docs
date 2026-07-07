@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Кали-юга в XXI веке"
 publishDate: 2023.06.24
-description: ""
+description: "Аудиолекция «Кали-юга в XXI веке» из раздела «аудиолекции» на Advayta.org."
 tags:
   - аудио
   - аудиогалерея

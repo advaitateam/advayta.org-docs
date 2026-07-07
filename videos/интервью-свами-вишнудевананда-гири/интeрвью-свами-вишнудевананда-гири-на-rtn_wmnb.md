@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Интeрвью Свами Вишнудевананда Гири на RTN-WMNB"
 publishDate: 01-01-2025
-description: ""
+description: "Видео «Интeрвью Свами Вишнудевананда Гири на RTN-WMNB» из раздела «интервью свами вишнудевананда гири» на Advayta.org."
 tags:
   - видео
   - интервью

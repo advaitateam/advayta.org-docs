@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: UI Kit
+description: "Overview of the Advayta.org UI Kit with base components, shared patterns, and component documentation."
 tags:
   - санатана дхарма
   - ui-kit

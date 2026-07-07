@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Slider
+description: "import VSliderSwiper from 'UiKit/components/VSlider/VSliderSwiper.vue';."
 slug: slider
 draft: false
 publishDate: 2024-10-10

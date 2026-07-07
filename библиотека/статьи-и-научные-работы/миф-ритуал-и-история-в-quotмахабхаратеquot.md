@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Миф, ритуал и история в &quot;Махабхарате&quot;"
 publishDate: 01-01-2025
-description: ""
+description: "Введение. «Махабхарата» и историческая типология эпоса."
 tags:
   - библиотека
   - статьи

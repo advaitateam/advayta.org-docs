@@ -2,7 +2,7 @@
 layout: page-detail
 title: "Dattatreya"
 publishDate: 01-01-2025
-description: ""
+description: "Dattatreya è l'ishta-devata, la divinità prescelta della nostra tradizione. È il maestro di tutti i maestri, il precettore di tutti gli yogi e i siddha."
 tags:
   - italiano
   - санатана дхарма

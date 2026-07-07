@@ -1,6 +1,7 @@
 ---
 layout: uikit-single
 title: Social Links
+description: "The VSocialLinks component is designed to display a list of social media links with corresponding icons."
 slug: social-links
 draft: false
 publishDate: 2024-10-10
